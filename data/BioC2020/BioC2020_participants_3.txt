@@ -1,0 +1,390 @@
+Janos Demeter,Stanford University,researcher,ATTENDEE
+Olga Demler,Brigham and Women's Hospital / Harvard Medical School,Assistant Professor/Associate Biostatistician,ATTENDEE
+Astrid Deschênes,Cold Spring Harbor Laboratory,Computational Science Developer,ATTENDEE
+Atul Deshpande,Johns Hopkins University,Postdoc,ATTENDEE
+Alos Diallo,Harvard Medical School,Research Associate,ATTENDEE
+David Dilworth,BlueRock Therapeutics,Scientist,ATTENDEE
+Loc Doan,Gene Solutions,Data Analyst,ATTENDEE
+Jennifer Doering,University of Manitoba,Research Technician,ATTENDEE
+Rocio Dominguez Vidana,Baylor College of Medicine,Staff Scientist,ATTENDEE
+Maria Doyle,Peter MacCallum Cancer Centre,Application and Training Specialist,ATTENDEE
+Mikhail Dozmorov,Virginia Commonwealth University,Associate professor,ORGANIZERWORKSHOPRRNA-SEQCOMPUTATIONAL BIOLOGYSTATISTICAL GENOMICS
+Jenny Drnevich,University of Illinois,Bioinformatics Specialist,ATTENDEERNA-SEQSCRNA-SEQTRAININGCORE FACILITY
+Kelly Eckenrode,CUNY Graduate School of Public Health and Health Policy,Postdoc,ATTENDEE
+Christopher Eeles,University Health Network,Software Developer,WORKSHOPCOMPUTATIONAL BIOLOGY
+Nils Eling,University of Zurich,Postdoc,ATTENDEERCOMPUTATIONAL BIOLOGYDATA VIZSINGLECELLCELL IMAGING
+Shaimaa Elsafoury,CUNY Graduate School of Public Health and Health Policy,Research Assistant,ATTENDEE
+Laura Fachal,Wellcome Sanger Institute,Senior Data Scientist,ATTENDEE
+Camila Farias Amorim,University of Pennsylvania,Postdoc,ATTENDEE
+Anthony Federico,Boston University,PhD Student,WORKSHOP
+Yuewei Fei,University of Rochester,undergraduate student,ATTENDEE
+Erica Feick,Dana-Farber Cancer Institute,Program Manager,ORGANIZER
+Lily Feldman,University of Colorado Anschutz Medical Campus,Graduate Student,ATTENDEE
+Danrley Fernandes,Federal University of Paraná,Student,ATTENDEE
+Anne-Maud Ferreira,Stanford University,postdoc,ATTENDEE
+Enrico Ferrero,Novartis Institutes for BioMedical Research,Associate Director,ATTENDEE
+Allan Feurtado,National Research Council Canada,Research Scientist,ATTENDEE
+Kwame Forbes,UNC-Chapel hill,postbox,ATTENDEE
+Amy Fox,Colorado State University,Phd Candidate,ATTENDEE
+Richard Friedman,Columbia University,Associate Research Scientist/ Lecturer,ATTENDEE
+Atsushi Fukushima,RIKEN,research scientist,ATTENDEE
+Taimá Naomi Furuyama,UNIFESP,PhD student,ATTENDEE
+Jacob Gagnon,Biogen,Senior Principal Biostatistician,ATTENDEE
+Krutika Satish Gaonkar,Children's Hospital of Philadelphia,Bioinformatics Scientist II,ATTENDEE
+Lucy Garner,University of Oxford,Postdoc,ATTENDEE
+Alexandra Garnham,Walter and Eliza Hall Institute of Medical Research,Bioinformatics Analyst,ATTENDEE
+Sharon Gates
+Laurent Gatto,Institut de Duve, Belgium,CODE OF CONDUCTBIOCCOMPUTATIONAL BIOLOGYPROTEOMICSMASS-SPECTROMETRYEMACSRUNNING
+Ludwig Geistlinger,CUNY School of Public Health,Post-doctoral research fellow in cancer genomics,ATTENDEEWORKSHOP
+Charlotte George,University of Oxford,postdoc,ATTENDEE
+Maxim Gerashchenko,Brigham and Women'd Hospital,Instructor in Medicine,ATTENDEE
+Serena Gerboni,Università di Milano Bicocca Italy,Master BI & Big Data Analytics,ATTENDEE
+Samuel Ghatan,Erasmus MC,PhD,ATTENDEE
+Shila Ghazanfar,CRUK Cambridge Institute, University of Cambridge,Research Associate,ATTENDEE
+Jay Ghurye,Dovetail Genomics,Research Scientist,ATTENDEE
+Jeroen Gilis,Ghent University,PhD student,ATTENDEE
+Thomas Girke,University of California, Riverside,Professor,ATTENDEE
+Jack Gisby,University of Birmingham,Student,ATTENDEE
+Jonathan Goeke,Genome Institute of Singapore,Group Leader,ATTENDEE
+Isha Goel,Jawaharlal Nehru University, New Delhi, India,PhD,ATTENDEE
+Alyssa Gonzalez,University of Pennsylvania,Undergraduate,ATTENDEE
+Andrew Goodspeed,University of Colorado,Research Associate,ATTENDEE
+Kara Gorman,NanoString,Biostatistics Data Analyst,ATTENDEE
+Rydham Goyal,Indian Institute of Science,Student,ATTENDEE
+Isabella Grabski,Harvard University,Student,ATTENDEE
+Tanya Grancharova,Allen Institute for Cell Science,Bioinformatics analyst,ATTENDEE
+Barry Grant,UCSD,Associate Professor,ATTENDEE
+Joost Groot,Biogen,Scientist Computational Biology,ATTENDEE
+Andreas Gschwind,Stanford University,Postdoc,ATTENDEE
+Tania Guerrero,Leibniz Institute for Zoo and Wildlife Research,Student,ATTENDEE
+Selvi Guharaj,Dana-Farber Cancer Institute,Research Staff,ATTENDEE
+Shubham Gupta,University of Toronto,student,ATTENDEERCOMPUTATIONAL BIOLOGYOPEN SOURCE
+Julia Gustavsen,Sophia Genetics,Bioinformatician,ATTENDEERRNA-SEQDATA VIZ
+Benjamin Haibe-Kains,University Health Network,Professor,ATTENDEE
+Kasper Daniel Hansen,Johns Hopkins University,BIOC
+Yi Hao,University of Virginia,Postdoc,ATTENDEE
+Rita Hayford,University of Delaware,student,ATTENDEE
+Dennis Hazelett,Cedars-Sinai Medical Center,Assistant Professor,ATTENDEE
+Peter Hickey,The Walter and Eliza Hall Institute of Medical Research,WORKSHOP
+Stephanie Hicks,Johns Hopkins Bloomberg School of Public Health,Assistant Professor,BIOCSPEAKERRNA-SEQSCRNA-SEQSTATISTICAL GENOMICSOPEN SOURCESINGLECELLCLUSTERINGOSCADATA SCIENCEBENCHMARKREPRODUCIBILITY
+Julia Hlavka-Zhang,The University of Copenhagen, BRIC/ Finsen Laboratory,PhD Student,ATTENDEE
+Anne Hoffrichter,Hector Institute for Translational Brain Research,postdoc,ATTENDEE
+Susan Holmes,Statistics, Stanford,Professor,ATTENDEE
+Helen Horkan,Nation University of Ireland Galway,PhD Student,ATTENDEE
+Joyce Hsiao,Moderna Therapeutics,Senior Statistician,ATTENDEE
+Lauren Hsu,Harvard School of Public Health (Dept. of Biostatistics); Dana Farber Cancer Institute (Dept. of Data Sciences),SPEAKER
+Kai Hu,University of Massachusetts Medical School,Bioinformatician,WORKSHOPRNA-SEQCOMPUTATIONAL BIOLOGYSCRNA-SEQ
+Ping Hu,procter &Gamble,principal scientist,ATTENDEE
+Qiang Hu,Roswell Park Comprehensive Cancer Center,Biostatistician,ATTENDEERRNA-SEQCOMPUTATIONAL BIOLOGYSCRNA-SEQSTATISTICAL GENOMICSOMICSDATA VIZVISUALIZATIONOPEN SOURCEMULTIMODAL DATAWORKFLOW
+Ting Huang,Northeastern University,PhD student,SPEAKEROMICS
+Wolfgang Huber,European Molecular Biology Laboratory,BIOC
+Louise Huuki,Liber Institute for Brain Development,Research Associate,ATTENDEE
+Lara Ianov,University of Alabama at Birmingham,Staff - Scientist II,ATTENDEE
+Katharina Imkeller,EMBL Heidelberg,Postdoctoral Fellow,ATTENDEE
+Mohammed Inayatullah,Queen's University Belfast,Postdoc,ATTENDEE
+Kayla Interdonato,Roswell Park Comprehensive Cancer Center,WORKSHOPR
+Emanuela Iovino,University of Bologna,PhD Student,ATTENDEE
+Rafael Irizarry, PhD,Dana-Farber Cancer Institute,Professor,KEYNOTE SPEAKER
+Martin Isabelle,GSK,Investigator,ATTENDEE
+Robert Ivanek,University of Basel,Staff Scientist,ATTENDEE
+Archana Iyer,MSKCC,Sr. Systems Biologist,ATTENDEE
+Amir Izaki,Interdisciplinary Center Herzliya,student,ATTENDEE
+Emma Jablonski,ETH Zürich and EPFL (Swiss Data Science Center),Data Science Engineer,SPEAKERDATA SCIENCEREPRODUCIBILITYRESEARCH
+Andris Jankevics,Phenome Centre Birmingham, University of Birmingham,Experimental Officer,ATTENDEE
+BalaTripura Jayanthi,Unemployed,Software developer,ATTENDEE
+Pratheepa Jeganathan,Stanford University,postdoc,ATTENDEE
+David Jenkins,AstraZeneca,Senior Scientist, Bioinformatics,ATTENDEE
+Hyun-Hwan Jeong,Baylor College of Medicine,Postdoctoral Associate,ATTENDEE
+Zibin Jiang,University of Pennsylvania,staff scientist,ATTENDEE
+Kan Jiang,NIH/NIAMS,staff scientist,ATTENDEE
+Veronia Jimenez Jacinto,Instituto de Biotecnologia de la Universidad Nacional Autonoma de México,academic technician,ATTENDEE
+Randall Johnson,Frederick National Laboratory,Data Scientist,ATTENDEE
+Aileen Johnson,Emory Transplant Center,Surgery Resident,ATTENDEE
+Emma Jones,University of Alabama at Birmingham,PhD Student,ATTENDEE
+Margaret Jones,Winchester High School,student,ATTENDEE
+Jen Judy,National Institutes of Health,Contract Worker,ATTENDEE
+Geet K,Emory University,Research data scientist,ATTENDEE
+Sisira Kadambat Nair,University Health Network,Research Analyst,ATTENDEE
+Adrija Kalvisa,Biotech Research & Innovation Centre (BRIC), University of Copenhagen,postdoc,ATTENDEE
+Ioannis Kamzolas,EMBL-EBI,Student,ATTENDEE
+Jayaram Kancherla,University of Maryland, College Park,SPEAKERRDATA VIZ
+Giorgos Kargas,EMBL-EBI,Trainee,ATTENDEE
+Lora Kasselman,CUNY Graduate School of Public Health and Health Policy,Researcher,ATTENDEE
+Marcin Kaszkowiak,Medical University of Lodz,Student,ATTENDEE
+Kasia Kedzierska,University of Oxford,PhD student,ATTENDEE
+Sara Keeble,Thermo Fisher Scientific,Bioinformatics Scientist,ATTENDEE
+Mario Keller,Goethe University Frankfurt,postdoc,ATTENDEE
+Jun Won Kim,Gangnam Severance Hospital, Yonsei University College of Medicine,Postdoc,ATTENDEE
+Axel Klenk,Idorsia Pharmaceuticals Ltd,Research Informatician,ATTENDEE
+Melina Klostermann,BMLS Frankfurt,phd student,ATTENDEE
+Keegan Korthauer,University of British Columbia,Assistant Professor,ATTENDEE
+Yuri Kotliarov,National Cancer Institute,PhD,ATTENDEE
+Nastasja Kreim,Institute of Molecular Biology Mainz,Bioinformatician,ATTENDEERRNA-SEQCOMPUTATIONAL BIOLOGYSCRNA-SEQOMICSVISUALIZATION
+Jordan Krull,Mayo Clinic,Student,ATTENDEE
+Monika Krzak,Welcome Sanger Institiute,Postdoc fellow,ATTENDEE
+Sachendra Kumar,Indian Institute of Science, India,PhD Student,ATTENDEE
+Manu Kumar,RAPT Therapeutics,Scientist,ATTENDEE
+Satoshi Kume,RIKEN BDR,Visiting Researcher,ATTENDEE
+David Kuo,Sana Biotechnology,Senior Scientist,ATTENDEE
+Kristyna Kupkova,University of Virginia,PhD student,ATTENDEE
+Nils Kurzawa,EMBL Heidelberg,PhD Student,ATTENDEERCOMPUTATIONAL BIOLOGYOMICSDATA VIZOPEN SOURCEPROTEOMICSBIOC
+Leo Lahti,University of Turku,Associate Professor,ATTENDEE
+Claudia Lalancette,University of Michigan Medicine,Managing Director Epigenomics Core,ATTENDEE
+TzeHau Lam,Procter & Gamble,Senior Scientist,ATTENDEE
+Christian Larsen,Emory University,Professor,ATTENDEE
+Michael Lawrence,Genentech,BIOC
+John Lawson,The University of Virginia,WORKSHOP
+Thomas Lawson,Michabo Health Sciences,Research Scientist in Bioinformatics,ATTENDEE
+Amy Lee,Simon Fraser University,Assistant Professor,ATTENDEE
+Won Lee,University of Texas at Austin,Postdoc,ATTENDEE
+Corina Lesseur,Icahn School of Medicine at Mount Sinai,Postdoc,ATTENDEE
+Dara Leto,Denali Therapeutics,Scientist,ATTENDEE
+Shannon Lewis,BieGene,System Architect,ATTENDEE
+Rui Li,University of Massachusetts Medical School,WORKSHOP
+Christine Li,UCSF,Student,ATTENDEE
+Qian Li,Icahn School of Medicine at Mount Sinai,Senior Scientist,ATTENDEE
+Kejie Li,Biogen,Computational Biologist,ATTENDEE
+Chao Li,Lieber Institute,Staff Scientist,ATTENDEERNA-SEQSTATISTICAL GENOMICSVISUALIZATION
+Connie Li Wai Suen,Walter and Eliza Hall Institute of Medical Research,Bioinformatics Analyst,ATTENDEE
+Steve Lianoglou,Denali Therapeutics,Computaitonal Biologist,ATTENDEERNA-SEQCOMPUTATIONAL BIOLOGYSCRNA-SEQVISUALIZATIONINTERACTIVE-ANALYSIS
+Stanley Lim,Duke-NUS Medical School,Reseach Assistant,ATTENDEE
+Hendrick Gao-Min Lim,Taipei Medical University,PhD research student,ATTENDEERRNA-SEQSCRNA-SEQOMICSCANCER GENOMICS
+Dongdong Lin,Biogen,Scientist,ATTENDEE
+Qirong Lin,Tsinghua University,student,ATTENDEE
+ShihQueen Lin,NIH,Biologist,ATTENDEE
+Lidia Lipinska-Zubrycka,University of Warsaw,postdoc,ATTENDEE
+Haibo Liu,Iowa State University,Bioinformatician III,WORKSHOPOMICSDATA VIZ
+Qian Liu,Roswell Park Comprehensive Cancer Center,Assistant Professor,ORGANIZERWORKSHOPCOMPUTATIONAL BIOLOGYSTATISTICAL GENOMICS
+X. Shirley Liu, PhD,Dana-Farber Cancer Institute,Professor,KEYNOTE SPEAKER
+Zhaoping Liu,Sartorius,Principle Scientist,ATTENDEE
+Shiyang Liu,Duke-NUS Medical School,Research Fellow,ATTENDEE
+Gavin Lloyd,Phenome Centre Birmingham, University of Birmingham,Postdoc,ATTENDEE
+Mark Long,Roswell Park Comprehensive Cancer Center,Assistant Professor,ATTENDEE
+Michael Lopez,Memorial Sloan Kettering,Bioinformatics Engineer II,ATTENDEE
+Michael Love,University of North Carolina-Chapel Hill,Assistant Professor,WORKSHOPRNA-SEQSCRNA-SEQOPEN SOURCEMULTIMODAL DATASTATISTICAL MODELSUNCERTAINTY
+Junyan Lu,EMBL Heidelberg,Staff Member,ATTENDEERCOMPUTATIONAL BIOLOGYSTATISTICAL GENOMICS
+Danilo Lüdke,Technical University of Darmstadt, Germany,student,ATTENDEE
+Aaron Lun, PhD,Genentech,Scientist,BIOCWORKSHOPKEYNOTE SPEAKER
+Ryan Lusby,UU,postdoc,ATTENDEE
+Tarah Lynch,University of Calgary,Clinical Assistant Professor,ATTENDEE
+Aleksandra Łosiewicz,Medical University of Lodz, Department of Biostatistics and Translational Medicine,student,ATTENDEE
+Liqian Ma,University of Illinois at Urbana Champaign,student,ATTENDEE
+James W. MacDonald,University of Washington,WORKSHOP
+Dania Machlab,Friedrich Miescher Institute for Biomedical Research,Ph.D. Student,ATTENDEE
+Carlos Magalhães,ICVS,PhD Student,ATTENDEE
+Anthony Mammoliti,Princess Margaret Cancer Centre,SPEAKER
+Stefano Mangiola,Walter and Eliza Hall Institute of Medical Research,Dr,WORKSHOPRRNA-SEQCOMPUTATIONAL BIOLOGYSCRNA-SEQSTATISTICAL GENOMICSOMICSDATA VIZOPEN SOURCECANCERBAYES STATISTICS
+Artur Manukyan,Broad Institute of MIT and Harvard,postdoc,ATTENDEE
+Mikhael Dito Manurung,Leiden University Medical Center,PhD Student,ATTENDEE
+Claire Marchal,National Eye Institute / National Institues of Health,postdoc,ATTENDEE
+Federico Marini,WORKSHOP
+Kärt Mätlik,The Rockefeller University,postdoc,ATTENDEE
+Felix Mbuga,San Jose State University,Student,ATTENDEE
+Matthew McCall,University of Rochester,Associate Professor,ORGANIZERSTATISTICAL GENOMICSSYSTEMS BIOLOGYMICRORNACELL IMAGING
+Carrie McCracken,Institute of Genome Sciences,Bioinformatics Analyst,ATTENDEE
+Gillian McHugo,University College Dublin,PhD student,ATTENDEE
+Carl McIntosh,National Cancer Institute, National Institutes of Health,Bioinformatician,ATTENDEE
+Michel Mees,mind2consult bv,Consultant,ATTENDEE
+Taoyu Mei,University of Copenhagen,Master's student,ATTENDEE
+Arvind Mer
+Aditi Methi,German Center for Neurodegenerative Diseases (DZNE), Germany,PhD student,ATTENDEE
+Niklas Michel,Max Planck Institute for Experimental Medicine,Postdoc,ATTENDEERRNA-SEQSCRNA-SEQVISUALIZATION
+Eric Milliman,Biogen,Principal Data Scientist,ATTENDEE
+Chloe Mirzayi,CUNY School of Public Health & Health Policy,Doctoral Student,WORKSHOPOMICSMICROBES
+Anupam Mondal,National Eye Institute / National Institutes of Health,postdoc,ATTENDEE
+Martin Morgan,Roswell Park Comprehensive Cancer Center,BIOC
+Lambda Moses,California Institute of Technology,SPEAKERCOMPUTATIONAL BIOLOGYSCRNA-SEQVISUALIZATIONSINGLECELLSPATIAL
+Lala Motlhabi,Genentech,Informatics Analyst II,ATTENDEE
+Mohsen Nabian,Harvard Medical School,postdoc,ATTENDEE
+Minoru Nakano,University Health Network (UHN),Software Developer,ATTENDEE
+Urwah Nawaz,University of Adelaide,PhD student,ATTENDEE
+Seble Negatu,University of Pennsylvania,Graduate student,ATTENDEE
+Erik Nelson,Johns Hopkins University,Grad Student,ATTENDEE
+Ngoc Nguyen,Royal College of Surgeons (Ireland),Postdoc,ATTENDEE
+Peter Nguyen,Cedars-Sinai Medical Center,student,ATTENDEE
+Dat Nguyen Thanh,Gene Solutions,Data Analyst,ATTENDEE
+Nolan NIchols,Maze Therapeutics,ATTENDEE
+Kozo Nishida,RIKEN,Technical Staff,ATTENDEE
+Mailyn Nishiguchi,UPenn,Grad Student,ATTENDEE
+Alexis Norris,FDA,Staff scientist,ATTENDEE
+Teresa Maria Rosaria Noviello,University of Naples Federico II,postdoc,ATTENDEE
+Zuzanna Nowicka,Medical University of Lodz,Researcher,ATTENDEE
+Deborah Nusskern,Luminex Corporation,Scientist II,ATTENDEE
+Spencer Nystrom,University of North Carolina at Chapel Hill,Graduate Student,ATTENDEE
+Denis O'Meally,City of Hope,Staff Scientist,ATTENDEE
+Gabriel Odom,Florida International University,Assistant Professor,SPEAKEROMICSCOVID19
+Sehyun Oh,City University of New York,Postdoc,WORKSHOPRNA-SEQSTATISTICAL GENOMICSOMICSCANCER GENOMICSCLOUD COMPUTING
+Yoichiro Ohne,Astrazeneca,Scientist,ATTENDEE
+Stefania Oliveto,INGM, Milan,PostDoc,ATTENDEE
+Stephany Orjuela,University of Zurich,PhD student,ATTENDEE
+Jianhong Ou
+Jianhong Ou,Duke University,Bioinformatics,ATTENDEE
+Herve Pages,Fred Hutchinson Cancer Research Center,Bioconductor core developer,BIOC
+Shraddha Pai,University of Toronto,SPEAKER
+Corrie Painter, PhD,Broad Institute,Deputy Director, Count Me In,KEYNOTE SPEAKER
+Petra Palenikova,University of Cambridge, MRC Mitochondrial Biology Unit,PhD student,ATTENDEE
+Madhur Parihar,LIBD,Research Associate,ATTENDEE
+Meet Parmar,IAR,India,Student,ATTENDEE
+Kirsten Parratt,National Institute of Standards and Technology,Postdoctoral Research Associate,ATTENDEE
+Ellis Patrick,The University of Sydney,SPEAKER
+Erica Peek,Emory University School of Medicine,Research Specialist,ATTENDEE
+Mai Phan,Max Planck Institute for Molecular Genetics,phd student,ATTENDEE
+Tzu Lip Phang,University of Colorado Anschutz Medical Campus,Associate Professor,ATTENDEE
+Jessica Phung,Washington State University,student,ATTENDEE
+Valentina Pineda,CUNY Graduate School of Public Health and Health Policy,Student,ATTENDEE
+Iguaracy Pinheiro de Sousa,University of São Paulo/EMBL-EBI,PhD Student,ATTENDEERRNA-SEQOMICSVISUALIZATION
+Nathalie Pochet,Broad Institute of MIT and Harvard, Harvard Medical School, Brigham and Women's Hospital,Assistant Professor,ATTENDEEWORKSHOP
+Jelmer Poelstra,Ohio State University,Postdoc,ATTENDEE
+Miguel Darío Prieto Gaez,HLI - University of British Columbia,Student,ATTENDEE
+Lindsey Provine
+Miles Pufall, PhD,University of Iowa,Assoc. Professor,ATTENDEERRNA-SEQDATA VIZVISUALIZATIONMULTIMODAL DATA
+Lucio Queiroz,Universidade Federal de Minas Gerais,Student,ATTENDEE
+Evgeni Radichev,University of South Dakota,Undergraduate Research Assistant,ATTENDEE
+Nur-Taz Rahman,Yale University,Postdoctoral Associate,ATTENDEE
+Johannes Rainer,Eurac Research,Postdoc,ATTENDEE
+Ayush Raman,Broad Institute,Postdoc,ATTENDEE
+Hena R Ramay,University of Calgary,SPEAKER
+Marcel Ramos, MPH,Roswell Park Comprehensive Cancer Center,Biostatistician,WORKSHOPRSTATISTICAL GENOMICSOMICSOPEN SOURCEMULTIMODAL DATABIOC
+Emma Rand,University of York, UK,Professor,ATTENDEE
+Shashidhar Ravishankar,Fred Hutchinson Cancer Research Center,Bioinformatics Analyst,ATTENDEE
+Paul Reardon,Vagelos College of Physicians and Surgeons,Student,ATTENDEE
+Alexandra Reimers,EMBL Heidelberg,Student,ATTENDEE
+Yuqi Ren,NanoString Technologies,Biostatistician I,ATTENDEE
+Dario Righelli,Department of Statistical Sciences, University of Padova,PostDoc,SPEAKER
+Davide Risso,University of Padova,Assistant Professor,SPEAKERRNA-SEQSCRNA-SEQSTATISTICAL GENOMICSMULTIMODAL DATAMICROBESSINGLECELL
+Matt Ritchie,The Walter and Eliza Hall Institute of Medical Research,BIOC
+Fiona Roche,Trinity College Dublin,Research Fellow,ATTENDEE
+Pablo Rodriguez,Universitat Pompeu Fabra,Software programmer,ATTENDEE
+Spencer Rosario,Roswell Park Comprehensive Cancer Center,Post-Doctoral Fellow,ATTENDEE
+Federico Rossi,European Institute of Oncology,Postdoc,ATTENDEE
+Riccardo Rossi,Istituto Nazionale Genetica Molecolare (INGM), Milan, Italy,Staff Scientist,ATTENDEE
+Hector Roux de Bezieux,University of California, Berkeley,Ph.D. Student,ATTENDEE
+Dan Rozelle,Rancho Biosciences,Group Leader,ATTENDEE
+Cornelia Rücklé,Institute of Molecular Biology,PhD student,ATTENDEE
+Kevin Rue-Albrecht, PhD,University of Oxford,Postdoctoral Fellow,WORKSHOPRRNA-SEQCOMPUTATIONAL BIOLOGYSCRNA-SEQOMICSDATA VIZVISUALIZATIONOPEN SOURCEMULTIMODAL DATA
+Frank Rühle,Institute of Molecular Biology (IMB),Bioinformatician,ATTENDEE
+Sarven Sabunciyan,Johns Hopkins University School of Medicine,Assistant Professor,ATTENDEE
+Sangram Keshari Sahu,Independent,Bioinformatician,ATTENDEE
+Bruno Saleme,University of Alberta,Student,ATTENDEE
+Thomas Sandmann,Denali Therapeutics,Principal Scientist,ATTENDEE
+Brice Sarver,Janssen R&D (Johnson & Johnson),Senior Scientist, Computational Genomics,ATTENDEE
+Rohit Satyam,CSIR-Institute of Genomics & Integrative Biology,Student,ATTENDEE
+Sergi Sayols,Institute of Molecular Biology,Staff Bioinformatician,ATTENDEE
+Lucas Schiffer,Boston University,PhD Student,ATTENDEE
+Ruth Schmidt,Plotly & Institut national de la recherche scientifique (INRS),Microbial Ecologist & Data Scientist,SPEAKERROMICSDATA VIZMICROBESCLIMATE CHANGEPLOTLYDROUGHTDASH
+Markus Schroeder,ETH Zürich,Bioinformatics Scientist,ATTENDEE
+Vince Schulz,Yale University,Associate Research Scientist,ATTENDEE
+Thomas Schwarzl,EMBL Heidelberg,Staff Scientist,ATTENDEE
+Sidharth Sen,University of Missouri,Student,ATTENDEE
+Ashu Sethi,La Jolla Institute for Allergy,Bioinformatics Specialist,ATTENDEE
+Nur Shahir,Pennsylvania State University,Postdoctoral Scholar,ATTENDEE
+Farhad Shakeri,Core Unit for Bioinformatics Data Analysis, Medical Faculty, University Bonn, Germany,PhD, staff scientist,ATTENDEERSTATISTICAL GENOMICSDATA VIZVISUALIZATIONPROTEOMICSMASS-SPECTROMETRYSTATISTICAL MODELS
+Shankar Shakya,Ball Horticultural Company,Bioinformatics Associate Scientist,ATTENDEERCOMPUTATIONAL BIOLOGYDATA VIZ
+Shivani Sharma,CES, Indian Institute of Science,Student,ATTENDEE
+Nathan Sheffield,ORGANIZER
+Ning Shen,University of British Columbia,Student,ATTENDEE
+Lori Shepherd,Roswell Park Comprehensive Cancer Center / Bioconductor,Senior Programmer,ORGANIZERBIOCWORKSHOP
+Kurtis Showmaker,UMMC,Instructor,ATTENDEE
+Shristi Shrestha,Vanderbilt University Medical Center,Postdoc,ATTENDEE
+Mirko Signorelli,Department of Biomedical Data Sciences, Leiden University Medical Center,Postdoc,ATTENDEE
+Andre Sim,GIS A*STAR,Postdoc,ATTENDEE
+Noor Pratap Singh,University of Maryland,Student,ATTENDEERRNA-SEQCOMPUTATIONAL BIOLOGYSCRNA-SEQSTATISTICAL GENOMICSOMICSVISUALIZATIONOPEN SOURCEMULTIMODAL DATASTATISTICAL MODELSBAYES STATISTICS
+Aditi Singh,Queen's University Belfast,Postdoc,ATTENDEERNA-SEQCOMPUTATIONAL BIOLOGYSTATISTICAL GENOMICSVISUALIZATION
+Andrew Skelton,UCB,Translational Bioinformatician,ATTENDEE
+Petr Smirnov
+Mike Smith,EMBL Heidelberg,Senior Scientific Programmer,ATTENDEE
+Ghada Soliman,City University of New York/Graduate School of Public Health,Associate Professor,ATTENDEE
+Charlotte Soneson,Friedrich Miescher Institute for Biomedical Research,Research Associate,ORGANIZERBIOCWORKSHOPSPEAKERRRNA-SEQSCRNA-SEQVISUALIZATION
+Anthony Sonrel,University of Zürich,PhD Student,SPEAKERRSCRNA-SEQBENCHMARKPREPROCESSING
+Avi Srivastava,New York Genome Center,WORKSHOPRNA-SEQCOMPUTATIONAL BIOLOGYSCRNA-SEQQUANTIFICATION
+Sara Stankiewicz,Brigham and Women's,Bioinformatician,ATTENDEE
+Richard Straub,Lieber Institute for Brain Development,Senior Research Scientist,ATTENDEE
+Kelly Street,Dana-Farber Cancer Institute,Research Fellow,WORKSHOPCOMPUTATIONAL BIOLOGYSCRNA-SEQSTATISTICAL GENOMICS
+BJ Stubbs,Channing Division of Network Medicine,IS Project Manager/PhD Student,ATTENDEE
+Shian Su,The Walter and Eliza Hall Institute,SPEAKER
+KuanJui Su,Tulane,Student,ATTENDEE
+Madhuri Sudharshan Gota,Maze Therapeutics,Software Engineer/Informatics,ATTENDEE
+Ting Sun,Max Planck Institute for Experimental Medicine,PhD student,ATTENDEE
+Silpa Suthram,Bristol Meyer Squib,Senior Research Investigator,ATTENDEE
+Dionne Swift,Procter & Gamble,Statistician,ATTENDEE
+Gina Sykes,University of Alberta,Graduate Student,ATTENDEE
+Raman Talwar,Maze Therapeutics,ATTENDEE
+Winnie Tam,H3 Biomedicine,Associate Director,ATTENDEE
+Triin Tammsalu,Fios Genomics,Senior Bioinformatician,ATTENDEE
+Bogdan Tanasa,Stanford University,Staff,ATTENDEE
+Ming Tang,Dana-Farber Cancer Institute,Senior scientist,ATTENDEE
+Ran Tao,Lieber Institute,Lead Research Scientist,ATTENDEE
+Petr Taus,Masaryk University, CEITEC MU,PhD student,ATTENDEE
+Patrick Taylor, PhD,Simon Fraser University,Postdoc,ATTENDEE
+Marco Antonio Tello-Palencia,University of British Columbia,MSc student,ATTENDEE
+Manoj Teltumbade,Institute of Genomics and Integrative Biology,Student,ATTENDEE
+Philip Terry,university nebraska-lincoln,Postdoc,ATTENDEE
+Marc Teunis,University of Applied Sciences, Utrecht,Senior Data Scientist,ATTENDEE
+Prat Thiru,Whitehead Institute,Bioinformatics Analyst,ATTENDEE
+Malte Thodberg,Lund University,Postdoc,ATTENDEE
+Simone Tiberi,University of Zurich,Postdoc,ATTENDEE
+Prakash Timilsena,Penn State University,Research Assistant,ATTENDEE
+Hedia Tnani,IPT,Postdoc,ATTENDEE
+Reka Toth,DKFZ,Postdoc,ATTENDEE
+F. William Townes, Ph.D.,Princeton University,postdoc,SPEAKERSCRNA-SEQSPATIAL
+Anabella Trigila,CONICET,PhD Candidate,ATTENDEE
+Rajiv Tripathi,University of Manitoba,Postdoctoral researcher,ATTENDEE
+Koki Tsuyuzaki,RIKEN BDR BiT,Postdoc,ATTENDEE
+Kirill Tsyganov,Monash Bioinformatics Platform,bioinformatician,ATTENDEE
+Nitesh Turaga,Bioconductor Core Team,Core Team Member,ATTENDEE
+Caroline Uhler, PhD,ETH Zurich,Professor,KEYNOTE SPEAKER
+Regina Umarova,National Institutes of Health,Contractor,ATTENDEE
+Leopoldo Valiente Banuet,Cedars-Sinai Medical Center LA,Research Bioinformatician,ATTENDEE
+Koen Van den Berge,University of California, Berkeley,Postdoc,WORKSHOPSPEAKERSCRNA-SEQSTATISTICAL GENOMICS
+Leticia Vega-Alvarado,Universidad Nacional Autonoma de Mexico,Academic,ATTENDEE
+Aditi Verma,Indian Institute of Science,Postdoc,ATTENDEE
+Jonelle Villar,University of Bergen, Norway,PhD candidate,ATTENDEE
+Ana Villaseñor-Altamirano,LIIGH-UNAM,student,ATTENDEE
+Ronalyn Vitancol,NanoString,Biostatistics Software Engineer,ATTENDEE
+Efstathios-Iason Vlachavas,German Cancer Research Center,Postdoc,ATTENDEE
+Giang Vo Truong,Gene Solutions,Data Analyst,ATTENDEE
+Erik VonKaenel,University of Rochester SMD,Student,ATTENDEE
+Levi Waldron,City University of New York,Associate Professor,CODE OF CONDUCTORGANIZERBIOCWORKSHOPMULTIMODAL DATAMETAGENOMICSMULTIASSAYEXPERIMENTMICROBIOMECANCER
+Yi Wang,Johns Hopkins Bloomberg School of Public Health,SPEAKER
+Wanpeng Wang,UCSF,Postdoc,ATTENDEE
+Freeman Wang,BSSI,Data Science Manager,ATTENDEE
+Yonhong Wang,Center for Cancer Research/National Institutes of Health,Biologist,ATTENDEE
+Weiping Wang,Regeneron,Analyst,ATTENDEE
+Lu Wang,University of Washington,Research Scientist,ATTENDEE
+Lily Wang,University of Miami,Associate Professor,ATTENDEE
+Jiefei Wang,Bioconductor,Student,ATTENDEE
+Eric Weatherford,University of Iowa,Associate,ATTENDEE
+Lukas M. Weber,Johns Hopkins University,SPEAKER
+Ralf Weber,Phenome Centre Birmingham, University of Birmingham,Director of Bioinformatics,ATTENDEE
+Rene Welch,University of Wisconsin, Madison,Assistant Scientist,ATTENDEE
+Jason Wendler,Seattle Children's Hospital,Lead Data Scientist,ATTENDEE
+Caroline Wendt,Colorado State University,undergraduate student,ATTENDEE
+Kerstin Wenzl,Mayo Clinic,Research Associate,ATTENDEE
+Olivia Wilkins,University of Manitoba,Assistant Professor,ATTENDEE
+Randy Williams,Icahn School of Medicine at Mount Sinai,Intern,ATTENDEE
+Aaron Wolen,TileDB,Software Engineer,ATTENDEE
+Ming-Ru Wu,Dana-Farber Cancer Institute,PI,ATTENDEE
+Lei Xu,Centre for Cancer Research/National Cancer Institute,Biologist,ATTENDEE
+Jiabao Xu,University of Oxford,Postdoc,ATTENDEE
+Mengshu Xu,RAPT Therapeutics,Scientist II,ATTENDEE
+Keren Xu,University of Southern California,Student,ATTENDEE
+Haoyu Yang,Walter and Eliza Hall Institute & The University of Melbourne,Student,ATTENDEE
+Chi-Yuan Yao,National Taiwan University Hospital,Physician,ATTENDEERRNA-SEQCOMPUTATIONAL BIOLOGYSCRNA-SEQ
+Yao Yao,Harvard Medical School,Student,ATTENDEE
+Bingbing Yuan,Whitehead Institute,Bioinformatics Scientist,ATTENDEE
+Aman Zare,Karolinska Institutet - MWLC,Bioinformatician,ATTENDEE
+Marko Zecevic,Seven Bridges,Bioinformatics Analyst,ATTENDEERRNA-SEQCOMPUTATIONAL BIOLOGYSTATISTICAL GENOMICS
+Wenjjuan Zha,Roswell Park Cancer Institute,Scientist,ATTENDEE
+Di Zhang,Dana-Farber Cancer Institute,Postdoc,ATTENDEE
+Guoqing Zhang,Westlake University,Doctor candidate,ATTENDEEOMICSMICROBIOMEARGS
+Haowei Zhang,Tsinghua University,Student,ATTENDEE
+Joan Zhang,Emory University,Informatics Analyst,ATTENDEE
+Le Zhang,University of California Riverside,PhD Candidate,ATTENDEE
+Xiuwen Zheng,Genomics Research Center, AbbVie,Senior Scientist,ATTENDEE
+Shijie Zheng,Johns Hopkins University,Postdoc,ATTENDEE
+Benyu Zhou,University of Rochester,Student,ATTENDEE
+You Zhou,Buchmann Institute for Molecular Life Sciences,Student,ATTENDEE
+Julie Zhu,University of Massachusetts Medical School,Professor,ATTENDEEWORKSHOPCOMPUTATIONAL BIOLOGY
+Yuelin (Jack) Zhu,Center for Cancer Research/National Institutes of Health,Biologist,ATTENDEE
+Anqi Zhu,23andMe, Inc,Scientist I Computational Biology,ATTENDEE
+Fatima Zohra,CUNY Graduate School of Public Health and Health Policy,Research Assistant,ATTENDEE,,GO,

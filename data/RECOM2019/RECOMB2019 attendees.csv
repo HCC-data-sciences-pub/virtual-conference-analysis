@@ -1,0 +1,375 @@
+first_name,last_name,Email (Enter Email),Main Affiliation,Work Address (City),Work Address (Country)
+Max,Alekseyev,maxal@gwu.edu,The George Washington University,"Washington, DC",United States
+Pavel,Avdeyev,avdeyev@gwu.edu,The George Washington University,"Washington, DC",United States
+Kamil,Cygan,kamil.cygan@regeneron.com,"Regeneron Pharmaceuticals, Inc.",Tarrytown,United States
+Alexander,Zelikovsky,alexz@gsu.edu,Georgia State University,Atlanta,United States
+Taesung,Park,tspark@stats.snu.ac.kr,Seoul National University,Soeul,South Korea
+Yijie,Wang,yijie.wang@nih.gov,National Institutes of Health,"Washington, DC",United States
+Badri,Adhikari,adhikarib@umsl.edu,University of Missouri - St.Louis,1 University Blvd,United States
+Nae-Chyun,Chen,cnaechy1@jhu.edu,Johns Hopkins University,Baltimore,United States
+Ernesto,Andrianantoandro,eandrianantoandro@cell.com,Cell Press,"Cambridge, MA",United States
+Chih-Hao,Hsu,Chih-Hao.Hsu@fda.hhs.gov,FDA,Laurel,United States
+Raheleh,Salari,rsalari@natera.com,Natera Inc,San Carlos,United States
+Simon,Gravel,simon.gravel@mcGill.ca,McGill University,Montreal,Canada
+Prakriti,Paul,ppaul@princeton.edu,Princeton University,Princeton,United States
+Kyle,Ellrott,ellrott@ohsu.edu,Oregon Health & Science University,Portland,United States
+Sofija,Miljovska,smiljovska@mdsol.com,Medidata Solutions,New York,United States
+Mohammed,El-Kebir,melkebir@illinois.edu,University of Illinois at Urbana-Champaign,"Urbana, IL",United States
+Jacquelyn,Meisel,jsmeisel1@gmail.com,University of Maryland,College Park,United States
+Itsik,Pe'er,itsik@cs.columbia.edu,Columbia University,New York,United States
+Sharon,Browning,sguy@uw.edu,University of Washington,Seattle,United States
+Qiuchen,Meng,mqc17@mails.tsinghua.edu.cn,Tsinghua University,Beijing,China
+Darya,Filippova,dfilippova@grailbio.com,Grail,"Menlo Park, CA",United States
+yue,wu,wuyue0715@g.ucla.edu,UCLA,sherman oaks,United States
+Matthew,Bendall,bendall@gwu.edu,GWU Computational Biology Institute,Washington DC,United States
+Michael,Waterman,msw@usc.edu,University of Southern California,Pasadena,United States
+Pavel,Skums,skumsp@gmail.com,Georgia State University,Atlanta,United States
+Fei,Ji,ji@molbio.mgh.harvard.edu,Massachusetts General Hospital,"Boston, MA",United States
+Oliver,Snow,oliver_snow@sfu.ca,Simon Fraser University,Vancouver,Canada
+Sriram,Sankararaman,sriram.sankararaman@gmail.com,UCLA,Los Angeles,United States
+Haluk,Resat,haluk.resat@nih.gov,Haluk Resat,Bethesda,United States
+Sorin,Istrail,sorin_istrail@brown.edu,Brown University,Providence,United States
+Sean,West,seanchristianwest@gmail.com,University of Nebraska at Omaha,Omaha,United States
+Dario,Ghersi,dghersi@unomaha.edu,University of Nebraska,Omaha,United States
+Peter,Robinson,peter.robinson@jax.org,The Jackson Laboratory,Farmington,United States
+Hyojung,Paik,hyojungpaik@gmail.com,KISTI,Daejeon,South Korea
+Jeremy,Fisher,jeremy.fisher@bd.com,Becton Dickinson Genomics,San Jose,United States
+Jonathan,LoTempio,jlotempio@gwmail.gwu.edu,Children's National,Washington,United States
+Jingwen,Pei,jpei@ancestry.com,Ancestry,San Francisco,United States
+Mohamed,Gunady,mgunady@cs.umd.edu,University of Maryland,College Park,United States
+Alfonso,Valencia,alfonso.valencia@bsc.es,Spanish National Bioinformatics Institute,Madrid,Spain
+Eytan,Ruppin,eyruppin@gmail.com,National Cancer Institute,Bethesda,United States
+Bonnie,Berger,bab@mit.edu,Massachusetts Institute of Technology,Cambridge,United States
+Martin,Vingron,vinoffic@molgen.mpg.de,Max Planck Institute for Molecular Genetics,Berlin,Germany
+Franziska,Michor,michor@jimmy.harvard.edu,Dana-Farber Cancer Institute,Cambridge,United States
+Rachel,Kolodny,trachel@gmail.com,University of Haifa,Haifa,Israel
+Mihai,Pop,mpop@umiacs.umd.edu,University of Maryland,College Park,United States
+Carlos D.,Bustamante,cdbadmin@stanford.edu,Stanford University,Stanford,United States
+Eleazar,Eskin,eeskin@cs.ucla.edu,UCLA,Los Angeles,United States
+Luay,Nakhleh,nakhleh@rice.edu,Rice University,Houston,United States
+Bahar,Behsaz,bbehsaz@ucsd.edu,UC San Diego,La Jolla,United States
+Rosario,Corona,ivetth.corona@gmail.com,Cedars-Sinai Medical Center,Los Angeles,United States
+Hayk,Barseghyan,haykbarseghyan@ucla.edu,Children's National Medical Center,"111 Michigan Ave NW, Washington DC 20010",United States
+Kayla,Johnson,john3491@msu.edu,Michigan State University,East Lansing,United States
+Rachid,Ounit,rouni001@cs.ucr.edu,"University of California, Riverside",Riverside,United States
+Minh Duc,Cao,minhduc.cao@gmail.com,4Catalyzer,Guilford,United States
+Srinivas,Aluru,aluru@cc.gatech.edu,Georgia Tech,Atlanta,United States
+Xin,Gao,xin.gao@nih.gov,NIH,"Bethesda, Maryland",United States
+Harun,Mustafa,harun.mustafa@inf.ethz.ch,ETH Zurich,Zurich,Switzerland
+David,Danko,dcdanko@gmail.com,Weill Cornell Medical College,New York,United States
+Advait,Balaji,ab114@rice.edu,Rice University,Houston,United States
+Welles,Robinson,wir963@gmail.com,"Center for Bioinformatics and Computational Biology, University of Maryland",College Park,United States
+Joel,Mefford,joelmefford@gmail.com,UCSF,San Francisco,United States
+Shibu,Yooseph,shibu.yooseph@ucf.edu,University of Central Florida,Orlando,United States
+Parsoa,Khorsand,pkhorsand@ucdavis.edu,UC Davis Genome Center,Davis,United States
+Alexander,McKim,mckimale@msu.edu,Michigan State University,East Lansing,United States
+Emmanuel,BARILLOT,Emmanuel.Barillot@curie.fr,institut Curie,PARIS,France
+Pouya,Kheradpour,pouyak@verily.com,Verily Life Sciences,"Mountain View, CA",United States
+Ladan,Doroud,ladan.doroud@gmail.com,Ancestry,San Francisco,United States
+Benjamin,Chidester,bchidest@andrew.cmu.edu,Carnegie Mellon University,Pittsburgh,United States
+Milos,Pavlovic,milos.pavlovic@navican.com,Navican Genomics Inc,Salt Lake City,United States
+Mohsen,Zakeri,mzakeri@cs.stonybrook.edu,Stony Brook University,"Stony Brook, NY",United States
+Ben,Raphael,braphael@princeton.edu,Princeton University,Princeton,United States
+Surajit,Bhattacharya,suro84@gmail.com,Children's National Health System,Washington D.C.,United States
+Ron,Zeira,rzeira@princeton.edu,Princeton University,Princeton,United States
+Cinzia,Pizzi,cinzia.pizzi@dei.unipd.it,"DEI, University of Padova",Padova,Italy
+Marteinn,Hardarson,marteinnh@decode.is,deCODE genetics,Reykjavik,Iceland
+Gunnar,Pálsson,gunnarp@decode.is,deCODE genetics,Reykjavik,Iceland
+Bjarni,Halldorsson,bjarnih@decode.is,deCODE genetics,Reykjavik,Iceland
+Benjamin,DeMeo,bdemeo@g.harvard.edu,Harvard University,Cambridge,United States
+Yunan,Luo,luoyunan@gmail.com,University of Illinois at Urbana-Champaign,Urbana,United States
+Yufeng,Wu,zw1727@yahoo.com,University of Connecticut,Storrs,United States
+Kathleen,Chen,kchen@flatironinstitute.org,Flatiron Institute,New York,United States
+Evan,Cofer,ecofer@princeton.edu,Princeton University,Princeton,United States
+Aaron,Wong,awong@flatironinstitute.org,Flatiron Institute,New York,United States
+Ran,Zhang,ranz@princeton.edu,Princeton University,Princeton,United States
+Vicky,Yao,vyao@princeton.edu,Princeton University,"Princeton, NJ",United States
+Ruth,Dannenfelser,rd6@princeton.edu,Princeton University,Princeton,United States
+Kenny,Westerman,kenneth.westerman@tufts.edu,Tufts University,Boston,United States
+Gregory,Grant,ggrant543@gmail.com,University of Pennsylvania Dept. of Genetics,Philadelphia,United States
+Christopher,Pockrandt,christopher.pockrandt@fu-berlin.de,Freie Universität Berlin,Berlin,Germany
+Myrto,Kremyda-Vlachou,myrto.kremyda-vlachou.14@ucl.ac.uk,University College London (UCL),London,United Kingdom
+Lisa,Bast,lisa.bast@helmholtz-muenchen.de,Technical University Munich,Neuherberg,Germany
+Jose,Lugo-Martinez,jlugomar@andrew.cmu.edu,Carnegie Mellon University,Pittsbburgh,United States
+Zhengping,Liu,zliu@pitt.edu,University of Pittsburgh,Pittsburgh,United States
+Shaojie,Zhang,shzhang@cs.ucf.edu,University of Central Florida,Orlando,United States
+Sam,Darko,sam.darko@nih.gov,NIH/NIAID/VRC,Bethesda,United States
+YAJUN,TANG,yajun.tang@regeneron.com,REGENERON,TARRYTOWN,United States
+Jason,Shoemaker,jason.shoemaker@pitt.edu,Univ. of Pitt,Pittsburgh,United States
+Fabio,Vandin,fabio.vandin@unipd.it,University of Padova,Padova,Italy
+Dan,DeBlasio,deblasio@cs.cmu.edu,Carnegie Mellon University,"Pittsburgh, PA",United States
+tandy,warnow,warnow@illinois.edu,University of Illinois,Urbana,United States
+Luca,Denti,l.denti@campus.unimib.it,Università degli Studi di Milano-Bicocca,Milano,Italy
+Mark,Zucker,zucker.64@osu.edu,Ohio State University,Columbus,United States
+Michael,Brudno,brudno@cs.toronto.edu,University of Toronto,Toronto,Canada
+Nathan,Ing,Nathan.Ing@cshs.org,Cedars-Sinai Medical Center,Los Angeles,United States
+Simon,Coetzee,simon.coetzee@cshs.org,Cedars-Sinai Medical Center,Los Angeles,United States
+Dennis,Hazelett,dennis.hazelett@csmc.edu,Cedars-Sinai Medical Center,Los Angeles,United States
+Dongze,He,dxh416@case.edu,Case Western Reserve University,Cleveland,United States
+Rob,Patro,rob.patro@cs.stonybrook.edu,Stony Brook University,"Stony Brook, NY",United States
+Ben,Langmead,langmea@cs.jhu.edu,Johns Hopkins University,Baltimore,United States
+Soumyashant,Nayak,nsoum@pennmedicine.upenn.edu,University of Pennsylvania,Philadelphia,United States
+Heng,Li,hli@jimmy.harvard.edu,Dana-Farber Cancer Institute,Boston,United States
+WEI,SONG,wei.song@nih.gov,National Institutes of Health (NIH),Bethesda,United States
+Aydin,Buluc,abuluc@lbl.gov,Lawrence Berkeley Lab,Berkeley,United States
+Iman,Hajirasouliha,imh2003@med.cornell.edu,Weill Cornell Medicine,New York City,United States
+Hsin-Ta,Wu,hwu@natera.com,Natera,San Carlos,United States
+Alan,Kuhnle,kuhnle@ufl.edu,University of Florida,"Gainesville, FL",United States
+Brad,Solomon,brad.sol@gmail.com,Johns Hopkins University,Baltimore,United States
+Jonathon,Gast,gast3@purdue.edu,Purdue University,West Lafayette,United States
+Roded,Sharan,roded@tau.ac.il,Tel Aviv University,Tel Aviv,Israel
+Lodewijk,Brand,lbrand@mymail.mines.edu,Colorado School of Mines,"Golden, CO",United States
+Layla,Oesper,loesper@carleton.edu,Carleton College,Northfield,United States
+Zach,DiNardo,dinardoz@carleton.edu,Carleton College,Northfield,United States
+Kiran,Tomlinson,tomlinsonk@carleton.edu,Carleton College,Northfield,United States
+David,Holland,david.holland@nih.gov,NIH/NHGRI,Bethesda,United States
+Paul,Medvedev,pzm11@psu.edu,Penn State,State College,United States
+Hang,Ruan,Hang.Ruan@uth.tmc.edu,UTHealth,Houston,United States
+Max,Leiserson,mdml@cs.umd.edu,University of Maryland,"College Park, Maryland",United States
+Qinlu,Wang,qinlu.wang@nih.gov,BCBB/NIAID/NIH,Rockville,United States
+Judy,Du,jtdu@princeton.edu,Princeton University,Princeton,United States
+Heidi,Van Every,hve@udel.edu,University of Delaware,Newark,United States
+Harshit,Sahay,harshit.sahay@duke.edu,Duke University,Durham,United States
+Yu,Kai,yukai@sysucc.org.cn,Sun Yat-sen University Cancer Center,Guangzhou,China
+Mahmoud,Ghandi,mghandi@thirdrocknewco.com,Dynamo Therapeutics,Boston,United States
+Rohan,Patil,rpatil8@gmu.edu,PhD candidate,Fairfax,United States
+Wooyoung,Kim,kimw6@uw.edu,University of Washington Bothell,Bothell,United States
+Yifan,Zhang,yz4hc@virginia.edu,University of Virginia,Charlottesville,United States
+Soumitra,Pal,soumitra.pal@nih.gov,"National Center for Biotechnology Information, National Library of Medicine, National Institute of Health",Rockville,United States
+Ali,Pazokitoroudi,alipazoki@ucla.edu,UCLA,LA,United States
+Katie,Hughes,katie.hughes@modernatx.com,"Moderna, Inc.",Cambridge,United States
+Vy,Tran,vtran21@jhmi.edu,"PhD Student, Johns Hopkins School of Public Health",Baltimore,United States
+Carl,Kingsford,ckingsf@andrew.cmu.edu,Carnegie Mellon University Computational Biology Department,Pittsburgh,United States
+Gryte,Satas,gsatas7@gmail.com,Brown University,Providence,United States
+Jacob,Oppenheim,jnoppenheim@gmail.com,Indigo Ag,Boston,United States
+Nichole,Wespe,nwespe@indigoag.com,Indigo Ag,Boston,United States
+Zorian,Thornton,zorian15@vt.edu,Virginia Tech,"Blacksburg, VA",United States
+Christina,Boucher,christinaboucher@ufl.edu,University of Florida,Gainesville,United States
+Mark,Gerstein,pi@gersteinlab.org,Yale University,New Haven,United States
+Emily,Ackerman,eea16@pitt.edu,University of Pittsburgh,Pittsburgh,United States
+Shan,Li,lis11@nih.gov,NIH/NLM/NCBI/CBB,Bethesda,United States
+Shahab,Sarmashghi,ssarmash@ucsd.edu,UC San Diego,La Jolla,United States
+Michael,Kirsche,mkirsche@jhu.edu,Johns Hopkins University,Baltimore,United States
+Mukul,Bansal,mukul.bansal@uconn.edu,University of Connecticut,Storrs,United States
+Mengfei,Cao,mengfei.cao01@gmail.com,Amazon.com,Seattle,United States
+Seungyeoun,Lee,leesy@sejong.ac.kr,Professor,SEOUL,South Korea
+Samuel,Kim,sungil@mit.edu,MIT,Cambridge,United States
+Matthew,Myers,mm63@cs.princeton.edu,Princeton University,"Princeton, NJ",United States
+Aya Abdelsalam,Ismail,asalam@cs.umd.edu,University of Maryland College Park,College Park,United States
+lillian,seu,LILLIAN.SEU@BMS.COM,Bristol-Myers Squibb,Princeton,United States
+Joo Sang,Lee,lee.joosang@gmail.com,"Cancer Data Science Lab, National Cancer Institute",Bethesda,United States
+Chirag,Jain,cjain7@gatech.edu,Georgia Institute of Technology,Atlanta,United States
+Haowen,Zhang,hwzhang@gatech.edu,Georgia Institute of Technology,Atlanta,Georgia
+Ashley,Conard,ashley_conard@brown.edu,Brown University,Providence,United States
+Emily,Flynn,erflynn@stanford.edu,Stanford University,"Stanford, CA",United States
+Simone,Zaccaria,zaccaria@princeton.edu,Princeton University,Princeton,United States
+Thomas,Brooks,thobr@sas.upenn.edu,Institute for Translational Medicine and Therapeutics,Philadelphia,United States
+Adam,Thrash,thrash@igbb.msstate.edu,"Institute for Genomics, Biocomputing & Biotechnology",Mississippi State,United States
+Nicholas,Lahens,nif@pennmedicine.upenn.edu,ITMAT Bioinformatics - University of Pennsylvania,Philadelphia,United States
+Dimitra,Sarantopoulou,dimitras@upenn.edu,University of Pennsylvania,Philadelphia,United States
+Timothy,Becker,timothy.becker@uconn.edu,University of Connecticut,Storrs,United States
+Benjamin,Lee,benjamin_lee@college.harvard.edu,In-Q-Tel Lab41 & Harvard University,Cambridge,United States
+Borislav,Hristov,borislav@princeton.edu,Princeton University,Princeton,United States
+Kaiyuan,Zhu,kzhu@indiana.edu,Indiana University Bloomington,"Bloomington, IN",United States
+Zeyuan Johnson,Chen,zchen05@g.ucla.edu,"University of California, Los Angeles",Los Angeles,United States
+Hoi Yan,Wu,hoiyanwu@uw.edu,University of Washington Bothell,Bothell,United States
+Stefan,Canzar,canzar@genzentrum.lmu.de,LMU Munich,Munich,Germany
+Hugh,Wang,zwang@pcyc.com,Abbvie,San Diego,United States
+Gurkan,Bebek,gurkan@case.edu,Case Western Reserve University,Cleveland,United States
+Sofia,Barreira,sofia.barreira@nih.gov,"NHGRI, NIH",Bethesda,United States
+Balázs,Ligeti,ligeti.balazs@itk.ppke.hu,Bioinformatics,Budapest,Hungary
+Junhua,LI,lijunhua@genomics.cn,BGI Research,Shenzhen,China
+Charlotte,Darby,cdarby@jhu.edu,Johns Hopkins University,Baltimore,United States
+Rachel,Sherman,rsherman@jhu.edu,Johns Hopkins University,Baltimore,United States
+Sitong,Chen,sitongchen@gwu.edu,Genetic Medicine Research,Washington DC,United States
+Mike,Thompson,mjthompson@ucla.edu,UCLA,Los Angeles,United States
+Lin,Yang,lyang10@gwu.edu,Genetic Medicine Research,District of Columbia,United States
+Anat,Etzion-Fuchs,anatf@princeton.edu,Princeton University,Princeton,United States
+Chaitanya,Aluru,caluru@princeton.edu,Princeton University,Princeton,United States
+Can,Kockan,cankockan92@gmail.com,Indiana University,Bloomington,United States
+Joshua,Wetzel,jlwetzel@princeton.edu,Princeton University,Princeton,United States
+Yoo-Ah,Kim,kimy3@ncbi.nlm.nih.gov,NIH/NCBI,Rockville,United States
+Samuel,Sledzieski,samuel.sledzieski@uconn.edu,University of Connecticut,Storrs,United States
+Giulia,Guidi,gguidi@berkeley.edu,University of California at Berkeley,Berkeley,United States
+Govinda,Kamath,govinda.kamath@gmail.com,Stanford University,Stanford,United States
+Ernesto,Iacucci,ernesto.iacucci@gmail.com,Nektar Therapeutics,455 Mission Bay Blvd South,United States
+Prashant,Pandey,ppandey2@cs.cmu.edu,Carnegie Mellon University,Pittsburgh,United States
+Peter,Hansen,peter.hansen@charite.de,The Jackson Laboratory for Genomic Medicine  & Charité - Universitätsmedizin Berlin,Berlin,Germany
+Shounak,Chakraborty,shounak.chakraborty1990@gmail.com,Ludwig-Maximilians-Universität München,Munich,Germany
+Elior,Rahmani,elior.rahmani@gmail.com,UCLA,Los Angeles,United States
+Chongzhi,Zang,zang@virginia.edu,University of Virginia,Charlottesville,United States
+Zhenjia,Wang,zhenjia@virginia.edu,University of Virginia,Charlottesville,United States
+Jin Yong,Yoo,jy2ma@virginia.edu,University of Virginia,Charlottesville,United States
+Jack,Kuipers,jack.kuipers@bsse.ethz.ch,ETH Zurich,Basel,Switzerland
+Shengen,Hu,sh8tv@virginia.edu,University of Virginia,Charlottesville,United States
+Fatemeh,Almodaresi,falmodaresit@cs.stonybrook.edu,Stony Brook University,Stony Brook,United States
+Van Hoan,Do,vanhoan310@gmail.com,Gene Center Munich,Munich,Germany
+Natalie,Sauerwald,natalie.sauerwald@cs.cmu.edu,Carnegie Mellon University,Pittsburgh,United States
+Cong,Ma,congm1@andrew.cmu.edu,Carnegie Mellon University,Pittsburgh,United States
+CALLAN,MONETTE,cemonette@email.wm.edu,William and Mary,Williamsburg,United States
+Peter,Arndt,arndt@molgen.mpg.de,Max Planck Institute for Molecular Genetics,Berlin,Germany
+Michael,Kleyman,mkleyman@cs.cmu.edu,Carnegie Mellon University,Pittsburgh,United States
+Wenjing,Ma,wm9tr@virginia.edu,"Center for Public Health Genomics, University of Virginia",Charlottesville,United States
+Pablo,Monteagudo,monteagudo@genzentrum.lmu.de,LMU,Munich,Germany
+Boying,Gong,jorothy_gong@berkeley.edu,"University of California, Berkeley",Kensington,United States
+Reshmi,Chowdhury,chowdhury@amyris.com,Amyris,"Emeryville, CA",United States
+John,Lawson,7jlawson@gmail.com,"University of Virginia, Center for Public Health Genomics",Charlottesville,United States
+itay,sason,itay.sas105@gmail.com,Tel Aviv University,holon,Israel
+James,McDonald,jimcdonald@gwu.edu,The George Washington University,"Washington, D.C.",United States
+Teresa,Przytycka,przytyck@ncbi.nlm.nih.gov,NCBI,Bethesda,United States
+Alejandro,Velasquez,avelasqu@gwmail.gwu.edu,The George Washington University,Washington D.C,United States
+John,Didion,jdidion@dnanexus.com,DNAnexus,Mountain View,United States
+Grace,Solini,gesolini@email.wm.edu,William and Mary,Sterling,United States
+Ethan,Jones,ejones01@email.wm.edu,William & Mary,Williamsburg,United States
+Huijing,Yu,lavenderyuuu@gmail.com,University of Hong Kong,Hong Kong,Hong Kong
+Martin,Zhang,jinye@stanford.edu,Stanford University,"STANFORD, CA",United States
+Sagnik,Sen,sagnik.sen2008@gmail.com,INSPIRE Fellow,Kolkata,India
+Sergey,Aganezov,aganezov@jhu.edu,Johns Hopkins University,Baltimore,United States
+Katarzyna,Wreczycka,katarzyna.wreczycka@mdc-berlin.de,Max Delbrück Center for Molecular Medicine,Berlin,Germany
+Wei,Li,wli2@childrensnational.org,Children's National Medical Center/GWU,"Washington, DC",United States
+Hannah,Paros,hlparos@email.wm.edu,William and Mary,Williamsburg,United States
+Anthony,Gitter,gitter@biostat.wisc.edu,University of Wisconsin-Madison,"Madison, WI",United States
+Matthew,Hayes,mhayes5@xula.edu,Xavier University of Louisiana,"New Orleans, Louisiana",United States
+Jian,Ma,jianma@cs.cmu.edu,Carnegie Mellon University,"Pittsburgh, PA",United States
+Kathryn,Murphy,kgmurphy@email.wm.edu,William and Mary,Williamsburg,United States
+Jason,Smith,jps3dp@virginia.edu,University of Virginia,Charlottesville,United States
+Song,Jaeseung,jaeseung6455@gmail.com,Dongguk University,Goyang,South Korea
+Junghyun,Jung,swordbreadjj@gmail.com,Dongguk University,Goyang-si,South Korea
+Byungjo,Lee,blee.inf@gmail.com,Dongguk university,Goyang-si,South Korea
+Ye,Wu,wuyeinhku@gmail.com,The University of Hong Kong,Hong Kong,Hong Kong
+Bayarbaatar,Amgalan,bayarbaatar@seas.num.edu.mn,National University of Mongolia,Ulaanbaatar,Mongolia
+Makhgal,Ganbold,makhgal@seas.num.edu.mn,National University of Mongolia,Ulaanbaatar,Mongolia
+Asia,Mendelevich,a.mendelevich@skoltech.ru,SkolTech,Moscow,Russia
+Haoyun,Lei,haoyunl@andrew.cmu.edu,Carnegie Mellon University,Pittsburgh,United States
+Yingfeng,Wang,yingfeng.wang@mga.edu,Middle Georgia State University,Macon,United States
+Hasiba,Asma,hasibaas@buffalo.edu,State University of New York,"Amherst, New York",United States
+Ziheng,Wang,ziheng@mit.edu,MIT CSAIL,Cambridge,United States
+Johann,Hawe,johann.hawe@helmholtz-muenchen.de,HelmholtzZentrum München,Neuherberg,Germany
+Tom Aharon,Hait,tomhait@mail.tau.ac.il,Tel Aviv University,Tel Aviv,Israel
+Weihua,Pan,wpan005@ucr.edu,"Department of Computer Science and Engineering, University of California, Riverside",Riverside,United States
+Rebecca,Elyanow,rebecca_elyanow@brown.edu,Brown University,Providence,United States
+Lee Ann,McCue,LeeAnn.McCue@pnnl.gov,PNNL,Richland,United States
+Tianshi,Lu,tianshi.lu@utsouthwestern.edu,Graduate Student,DALLAS,United States
+Yang,Yang,yy3@andrew.cmu.edu,Carnegie Mellon University,PITTSBURGH,United States
+Rui,Qiao,rqiao@uwaterloo.ca,University of Waterloo,Waterloo,Canada
+Chang,Xu,chang.xu@qiagen.com,QIAGEN,"Frederick, MD",United States
+Gege,Gui,gege.gui@nih.gov,NIH / NHLBI,Bethesda,United States
+Abdollah,Dehzangi,abdollah.dehzangi@morgan.edu,Morgan State University,Baltimore,United States
+Bethany,Hall,bethany.hall022013@my.ntu.ac.uk,Nottingham Trent University,Nottingham,United Kingdom
+Brendan,Mumey,brendan.mumey@montana.edu,Montana State University,Bozeman,United States
+Sneha,Mitra,sneha@cs.duke.edu,Duke University,DURHAM,United States
+Metin,Balaban,balaban@ucsd.edu,UC San Diego,San Diego,United States
+Anna,Yannakopoulos,yannakop@msu.edu,Michigan State University,East Lansing,United States
+Hyunghoon,Cho,hhcho@mit.edu,MIT,"Cambridge, MA",United States
+Trung,Tran,trung.tran@duke.edu,Duke University,Durham,United States
+Jan,Hoinka,jan.hoinka@nih.gov,NCBI/NLM/NIH,Bethesda,United States
+Brian,Hie,brianhie@mit.edu,Massachusetts Institute of Technology,Cambridge,United States
+Jonathan,Perrie,perriejv@nih.gov,NIH,Bethesda,United States
+Valerio,Lupperger,valerio.lupperger@helmholtz-muenchen.de,Helmholtz Center Munich,Munich,Germany
+Hannah,De los Santos,delosh@rpi.edu,Rensselaer Polytechnic Institute,Troy,United States
+Yifan,ZHANG,bbfan@hku.hk,University of Hong Kong,Hong Kong,Hong Kong
+Jesse,Zhang,jessez@stanford.edu,Stanford University,Stanford,United States
+Kristoffer,Sahlin,krsahlin@gmail.com,"Computer Science and Engineering, Penn State",State College,United States
+Jie,Yuan,jieyuan@link.cuhk.edu.hk,The Chinese University of Hong Kong,HONG KONG,China
+Madison,Hansen,mhansen@amnh.org,American Museum of Natural History,New York,United States
+Jinbo,Xu,jinboxu@gmail.com,Toyota Technological Institute at Chicago,Chicago,United States
+Hao,Sun,haosun@cuhk.edu.hk,The Chinese University of Hong Kong,Hong Kong,Hong Kong
+Taher,Mun,tahermun@gmail.com,Johns Hopkins Department of Computer Science,Baltimore,United States
+Younhun,Kim,younhun@mit.edu,MIT,"Cambridge, MA",United States
+Guillaume,Marcais,gmarcais@cs.cmu.edu,"Computational Biology Department, Carnegie Mellon University",Pittsburgh,United States
+Wing Tung,Fung,japio@connect.hku.hk,The University of Hong Kong,Hong Kong,Hong Kong
+Eyuep,Konak,ekonak@epo.org,EPO,Munich,Ghana
+Knut,Reinert,knut.reinert@fu-berlin.de,Freie Universität Berlin,Berlin,Germany
+Bruce,Donald,cvnmpcn@yahoo.com,Bruce Donald,Duke University,United States
+Alejandro,Schaffer,alejandro.schaffer@nih.gov,NCI/National Institutes of Health,Silver Spring,United States
+Coby,Viner,cviner@cs.toronto.edu,"DCS, University of Toronto",Toronto,Canada
+Russell,Schwartz,russells@andrew.cmu.edu,Carnegie Mellon University,Pittsburgh,United States
+Leonardo,Pellegrina,pellegri@dei.unipd.it,University of Padova,Padova,Italy
+Lin,Tang,lin.tang@nature.com,Nature Communications,Shanghai,China
+Peng,Jiang,peng_jiang@dfci.harvard.edu,"Dana Farber Cancer Institute, Harvard University",Boston,United States
+Jonathan,Jou,jj@cs.duke.edu,Duke University,Durham,United States
+Martin,Steinegger,themartinsteinegger@gmail.com,Johns Hopkins University School of Medicine,Baltimore,United States
+Graham,Holt,graham.holt@duke.edu,Duke University,Durham,United States
+Anna,Lowegard,anna.lowegard@duke.edu,Duke University,Durham,United States
+Lenore,Cowen,cowen@cs.tufts.edu,Tufts University,Medford,United States
+Ashley Ryan,Vidad,ashleyryanvidad@gmail.com,Nova Southeastern University - Dr. Kiran C. Patel College of Osteopathic Medicine,Davie,United States
+Damian,Wojtowicz,wojtowda@nih.gov,National Institutes of Health,"Washington, DC",United States
+Philipp,Benner,benner@molgen.mpg.de,Max Planck Institute for Molecular Genetics,Berlin,Germany
+Rebecca,Clement,rebeccaclement@gwu.edu,George Washington University,Washington,United States
+Keylie,Gibson,kmgibson@gwu.edu,George Washington University,Washington,United States
+Kiran,Javkar,kjavkar@cs.umd.edu,"University of Maryland, College Park",College Park,United States
+Victoria,CEPEDA-ESPINOZA,vickycees@gmail.com,"University of Maryland, College Park",College Park,United States
+yiyang,lian,ylian@gmu.edu,George Mason University,Manassas,United States
+Nicholas,Franzese,franzese@cs.umd.edu,University of Maryland,College Park,United States
+Xuan,Li,xli1994@umd.edu,"University of Maryland, College Park",College Park,United States
+Jason,Fan,jasonfan@cs.umd.edu,"University of Maryland, College Park",College Park,United States
+Tracy,Chen,ychen151@cs.umd.edu,"University of Maryland, College Park",College Park,United States
+Amatur,Rahman,amatur003@gmail.com,Pennsylvania State University,State College,United States
+Kapil,Devkota,kapil.devkota@tufts.edu,Tufts University,Somerville,United States
+Christopher,Pietras,cmpietras@gmail.com,Tufts University,Medford,United States
+Mira,Barshai,mirabar@post.bgu.ac.il,Ben Gurion University of the Negev,Be'er Sheva,Israel
+Jiaqi,Li,li-jq18@mails.tsinghua.edu.cn,Tsinghua University,Beijing,China
+yiran,li,yl22225@uga.edu,University of Georgia,ATHENS,United States
+Nusrat,Epsi,nusrat.epsi@rutgers.edu,Rutgers University,Newark,United States
+Abhinandan,Devaprasad,a.devaprasad@umcutrecht.nl,UMC Utrecht,UTRECHT,Netherlands
+Lucia,Williams,lgw2@uw.edu,Montana State University,Bozeman,United States
+ting,jin,ting.jin@stonybrook.edu,Stony brook University,Stony brook,United States
+Elham,Sherafat,elham.sherafat@uconn.edu,University of Connecticut,Storrs,United States
+Revonda ,Mehovic,Revonda.Mehovic@takeda.com,Takeda Oncology,Cambridge,United States
+Stefano,Tonzani,stonzani@cell.com,Cell Press,Cambridge,United States
+Chanson ,Benjamin,cbenjamin@gwu.edu,The George Washington University,"Washington, DC",United States
+Yuanyuan,Qi,yq7@illinois.edu,University of Illinois at Urbana-Champaign,Urbana,United States
+Assaf,Magen,amagen@umd.edu,NCI/National Institutes of Health,Bethesda,United States
+Takaharu ,Asano,tasano2@bwh.harvard.edu,Center for Interdisciplinary Cardiovascular Sciences,Boston,United States
+Vineet,Bafna,vbafna@cs.ucsd.edu,UC San Diego,La Jolla,United States
+Todd,Treangen,treangen@rice.edu,Rice University,Houston,United States
+Maxwell,Libbrecht,max.libbrecht@gmail.com,Simon Fraser University,Vancouver,Canada
+Dmitrii,Meleshko,dmm2017@med.cornell.edu,Weill Cornell Medical College,New York,United States
+Orieta,Celiku,orieta.celiku@nih.gov,NCI/NIH,Bethesda,United States
+Paola,Bonizzoni,paola.bonizzoni@unimib.it,University of Milano-Bicocca,Milan,Italy
+Murray,Patterson,murray.patterson@unimib.it,Università degli Studi di Milano-Bicocca,Milan,Italy
+Marco,Previtali,marco.previtali@disco.unimib.it,Università degli studi di Milano-Bicocca,Milan,Italy
+Qian,Shi,qzs23@psu.edu,Pennsylvania State University,State College,United States
+Baishali,Maskeri,maskerib@mail.nih.gov,National Institutes of Health,"Bethesda, MD.",United States
+Sourya,Bhattacharyya,sourya@lji.org,La Jolla Institute for Immunology,La Jolla,United States
+Abhijit,Chakraborty,abhijit@lji.org,La Jolla Institute for Immunology,La Jolla,United States
+Mariam,Quinones,quinonesm@niaid.nih.gov,National Institutes of Health,Rockville,United States
+Andrew,Oler,andrew.oler@nih.gov,National Institutes of Health,Rockville,United States
+Michale,Harris,michael.harris2@nih.gov,National Institutes of Health,Rockville,United States
+Travis,Johnson,travis.johnson@osumc.edu,The Ohio State University,Columbus,United States
+Mikhail,Kolmogorov,fenderglass@gmail.com,UC San Diego,La Jolla,United States
+Jade,Wang,jwang7@health.nyc.gov,,Manhattan,United States
+Stefan,Wuchty,wuchtys@cs.miami.edu,University of Miami,Coral Gables,United States
+Jeremiah,House,jhouse@mdandersonorg,MD Anderson Cancer Center,Houston,United States
+Mario,Flores,mario.flores@remotesens.com,National Institutes of Health,Bethesda,United States
+Agnieszka ,Mykowiecka,agnieszka.mykowiecka@mimuw.edu.pl,University of Warsaw,Warsaw,Poland
+David ,Perkins,perkinsd@uic.edu,University of Illinois at Chicago,Chicago,United States
+Farhad ,Hormozdiari,hormozdiari@hsph.harvard.edu,Harvard University,Boston,United States
+Di,Huang,huangd2@nih.gov,National Institutes of Health,Bethesda,United States
+Bel,Hanson,bhanson@iscb.org,ISCB,Leesburg,United States
+Diane,Kovats,dkovats@iscb.org,ISCB,Leesburg,United States
+Yuelin,Liu,yuelin.liu@tufts.edu,Tufts University,"Medford, MA",United States
+Ben,Lai,blai@ttic.edu,TTI-Chicago,Chicago,United States
+Hayden,Brochu,hnathan@ncsu.edu,North Carolina State University,Raleigh,United States
+Yingying,Wei,yweicuhk@gmail.com,The Chinese University of Hong Kong,Hong Kong,Hong Kong
+Timothy ,Ranallo-Benavidez,tbenavi1@jhu.edu,Johns Hopkins University,Baltimore,United States
+Mireille ,Régnier,Mireille.regnier@inria.fr,CNRS-Ecole polytechnique,Paris,France
+Uzi,Vishkin,vishkin@umd.edu,University of Maryland,College Park,United States
+Cenk,Sahinalp,cenk_sahinalp@sfu.ca,Indiana University,Bloomington,United States
+Yann,Ponty,yann.ponty@lix.polytechnique.fr ,CNRS & Ecole Polytechnique,Palaiseau,France
+Saul,Sarria,Saul.sarria@fda.hhs.gov,University of Maryland,College Park,United States
+Rohit,Singh,rsingh@alum.mit.edu,TST,Boston,United States
+Rebecca,Sarto Basso,rebeccasarto@gmail.com,UC Berkeley,Berkeley,United States
+David,Haan,davidhaan@gmail.com,University of California Santa Cruz,Santa Cruz,United States
+Edward,Gertz,Gertzem@mail.nih.gov,,,United States
+Sanju,Sinha,Sanju@terpmail.umd.edu,,,United States
+Dennis,Kostka,kostka@pitt.edu,University of Pittsburgh,Pittsburgh,United States
+Kami,Chiotti,chiotti@ohsu.edu,Oregon Health & Science University,Portland,United States
+Nathan,LaPierre,nathanl2012@gmail.com,"University of California, Los Angeles",Los Angeles,United States
+Kodi,Collins,kodicollins@ucla.edu,"University of California, Los Angeles",Los Angeles,United States
+Thao,Truong,thao@bioturing.com,BioTuring,San Diego,United States
+Faraz,Hach,faraz.hach@ubc.ca,University of British Columbia,Vancouver,Canada
+Sanjarbek ,Hudaiberdiev,sanjarbek.hudaiberdiev@nih.gov,National Institutes of Health,Bethesda,United States
+Dougu,Nam,dougunam@gmail.com,,,United States
+Rovena,Sfeci,rsfeci@yahoo.com,Brandeis University,Waltham,United States
+Mgavi,Braithwaite,m.braithwaite@nyu.edu,,New-York,United States
