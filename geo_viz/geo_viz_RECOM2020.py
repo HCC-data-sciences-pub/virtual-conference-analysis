@@ -56,6 +56,7 @@ conti_names = list(conti_count_dict.keys())
 # pie_data_out = [list(z) for z in zip(conti_names, conti_counts)]
 conti_counts = []
 conti_pie_data_2 = []
+counti_3 =[]
 
 for conti in conti_names:
     temp_list = []
@@ -66,11 +67,14 @@ for conti in conti_names:
             count += contry[1]
     conti_counts.append(count)
     conti_pie_data_2.append(temp_list)
+    temp_list.append(conti)
+    counti_3.append(temp_list)
 
 pie_countrys_names = list(country_count_dict.keys())
 pie_countrys_count = list(country_count_dict.values())
 
 print(conti_pie_data_2)
+print(counti_3)
 pie_data_in = [list(z) for z in zip(pie_countrys_names, pie_countrys_count)]
 pie_data_out = [list(z) for z in zip(conti_names, conti_counts)]
 

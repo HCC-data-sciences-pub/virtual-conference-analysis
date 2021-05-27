@@ -44,7 +44,7 @@ conti_pie_data = []
 for i in range(len(sorted_map_data)):
     conti_pie_data.append([sorted_map_data[i][0], sorted_map_data[i][1],continent[i]])
 
-# print(continent)
+print(continent)
 conti_count_dict = {}
 for i in  range(len(continent)):
     if continent[i] in conti_count_dict.keys():
@@ -58,6 +58,7 @@ conti_names = list(conti_count_dict.keys())
 # pie_data_out = [list(z) for z in zip(conti_names, conti_counts)]
 conti_counts = []
 conti_pie_data_2 = []
+counti_3 =[]
 
 for conti in conti_names:
     temp_list = []
@@ -68,11 +69,14 @@ for conti in conti_names:
             count += contry[1]
     conti_counts.append(count)
     conti_pie_data_2.append(temp_list)
+    temp_list.append(conti)
+    counti_3.append(temp_list)
 
 pie_countrys_names = list(country_count_dict.keys())
 pie_countrys_count = list(country_count_dict.values())
 
 print(conti_pie_data_2)
+print(counti_3)
 # [[['United States', 303], ['Canada', 7]], [['Germany', 14], ['Italy', 7], ['France', 3], ['Iceland', 3], ['Switzerland', 2], ['United Kingdom', 2], ['Spain', 1], ['Hungary', 1], ['Russia', 1], ['Netherlands', 1], ['Poland', 1]], [['South Korea', 6], ['China', 6], ['Hong Kong', 6], ['Israel', 5], ['Mongolia', 2], ['Georgia', 1], ['India', 1]], [['Ghana', 1]]]
 
 
