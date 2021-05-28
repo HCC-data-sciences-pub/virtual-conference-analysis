@@ -83,6 +83,9 @@ print(counti_3)
 pie_data_in = [list(z) for z in zip(pie_countrys_names, pie_countrys_count)]
 pie_data_out = [list(z) for z in zip(conti_names, conti_counts)]
 
+print(pie_data_in)
+print(pie_data_out)
+
 c = (
         Map()
         .add(
