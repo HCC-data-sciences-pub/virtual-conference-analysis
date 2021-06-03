@@ -14,6 +14,7 @@ option = {
         }
     },
     legend: {
+        textStyle :{fontSize: 20},
         data: ['Female 2019', 'Female 2020']
     },
     grid: {
@@ -24,11 +25,23 @@ option = {
     },
     xAxis: [
         {
-            data: ["2019                                                                                   2020"]
+            data: ["2019                                             2020"]
+        , axisLabel: {
+            show: true,
+            textStyle: {
+                 fontSize: 20
+            }
+        }
         }
     ],
     yAxis: [{
         type: "value",
+        axisLabel: {
+            show: true,
+            textStyle: {
+                 fontSize: 20
+            }
+        }
     }],
     series: [
         {
@@ -39,8 +52,9 @@ option = {
             label: {
                 normal: {
                     show: true,
-                    formatter: "128,  34.22% of total",
+                    formatter: "128,  34.22% of the total",
                     textStyle: {
+                        fontSize: 20,
                         fontWeight: 'bold'
                     }
                 }
@@ -54,8 +68,9 @@ option = {
             label: {
                 normal: {
                     show: true,
-                    formatter: "1730, \n\n44.22% of total",
+                    formatter: "1730, \n\n44.22% of the total",
                     textStyle: {
+                        fontSize: 20,
                         fontWeight: 'bold'
                     }
                 }
@@ -65,3 +80,4 @@ option = {
 };
 
 option && myChart.setOption(option);
+    

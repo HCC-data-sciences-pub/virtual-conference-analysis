@@ -14,7 +14,7 @@ option = {
     },
     series: [
         {
-            name: 'Numbers \n  of regions',
+            name: 'Numbers \n  of countries',
             type: 'pie',
             selectedMode: 'single',
             color: ['#4f66d6', '#7036b3', '#b33668', '#b38936', '#64b336'],
@@ -50,7 +50,7 @@ option = {
             data: [
                 { value: 2280, name: 'America: 12' },
                 { value: 938, name: 'Europe: 27' },
-                { value: 533, name: 'Asia: 27' },
+                { value: 533, name: 'Asia: 25' },
                 { value: 55, name: 'Oceania: 2' },
                 { value: 23, name: 'Africa: 7' }
             ]

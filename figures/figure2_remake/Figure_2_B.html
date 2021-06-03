@@ -1,5 +1,5 @@
 <!--
-    THIS EXAMPLE WAS DOWNLOADED FROM https://echarts.apache.org/examples/en/editor.html?c=pie-nest
+    THIS EXAMPLE WAS DOWNLOADED FROM https://echarts.apache.org/examples/en/editor.html?c=bar-negative
 -->
 <!DOCTYPE html>
 <html style="height: 100%">
@@ -47,10 +47,10 @@ option = {
     },
     series: [
         {
-            name: 'Numbers \n  of regions',
+            name: 'Numbers \n  of countries',
             type: 'pie',
             selectedMode: 'single',
-            color: ['#99d64f', '#36b381', '#58aee0', '#d19fad'], 
+            color: ['#99d64f', '#36b381', '#58aee0', '#d19fad'],
             radius: [0, '30%'],
             label: {
                 formatter: '  {a|{a}  }{abg|}\n{hr|}\n {b|{b}} ',
@@ -58,7 +58,7 @@ option = {
                 borderColor: '#8C8D8E',
                 borderWidth: 1,
                 borderRadius: 4,
-                
+
                 rich: {
                     a: {
                         color: '#6E7079',
@@ -81,16 +81,16 @@ option = {
                 }
             },
             data: [
-                {value: 331, name: 'America: 2'},
-                {value: 36, name: 'Europe: 11'},
-                {value: 26, name: 'Asia: 6'},
-                {value: 1, name: 'Africa: 1'}
+                { value: 331, name: 'America: 2' },
+                { value: 36, name: 'Europe: 11' },
+                { value: 26, name: 'Asia: 5' },
+                { value: 1, name: 'Africa: 1' }
             ]
         },
         {
             name: 'Numbers of participants',
             type: 'pie',
-            color: ['#99d64f', '#36b381', '#58aee0', '#d19fad'], 
+            color: ['#99d64f', '#36b381', '#58aee0', '#d19fad'],
             radius: ['45%', '60%'],
             labelLine: {
                 length: 30,
@@ -101,7 +101,7 @@ option = {
                 borderColor: '#8C8D8E',
                 borderWidth: 1,
                 borderRadius: 4,
-                
+
                 rich: {
                     a: {
                         color: '#6E7079',
@@ -129,10 +129,10 @@ option = {
                 }
             },
             data: [
-                {value: 331, name: 'America'},
-                {value: 36, name: 'Europe'},
-                {value: 26, name: 'Asia'},
-                {value: 1, name: 'Africa'}
+                { value: 331, name: 'America' },
+                { value: 36, name: 'Europe' },
+                { value: 26, name: 'Asia' },
+                { value: 1, name: 'Africa' }
             ]
         }
     ]

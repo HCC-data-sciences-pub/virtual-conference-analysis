@@ -1789,14 +1789,14 @@ option = {
                     align: 'left',
                     color: '#b33668',
                     formatter(params) {
-                        let htmlStr = "                 China   " + Math.abs(params.value)
+                        let htmlStr = "                       China   " + Math.abs(params.value)
                         return htmlStr
                     }
                 }
             },
             data: [
                 {
-                    value: 91
+                    value: 124
                 }
             ]
         }, {
@@ -1810,57 +1810,14 @@ option = {
                     show: true,
                     align: 'right',
                     formatter(params) {
-                        let htmlStr = Math.abs(params.value) + "  "
+                        let htmlStr = Math.abs(params.value) + "   "
                         return htmlStr
                     }
                 }
             },
             data: [
                 {
-                    value: -6
-                }
-            ]
-        }, {
-            name: '2020',
-            type: 'bar',
-            stack: 'Hong Kong',
-            color: '#b33668',
-            barMaxWidth: '18',
-            label: {
-                normal: {
-                    show: true,
-                    align: 'left',
-                    color: '#b33668',
-                    formatter(params) {
-                        let htmlStr = "      Hong Kong   " + Math.abs(params.value)
-                        return htmlStr
-                    }
-                }
-            },
-            data: [
-                {
-                    value: 25
-                }
-            ]
-        }, {
-            name: '2020',
-            type: 'bar',
-            stack: 'Hong Kong',
-            color: '#58aee0',
-            barMaxWidth: '18',
-            label: {
-                normal: {
-                    show: true,
-                    align: 'right',
-                    formatter(params) {
-                        let htmlStr = Math.abs(params.value) + "  "
-                        return htmlStr
-                    }
-                }
-            },
-            data: [
-                {
-                    value: -6
+                    value: -12
                 }
             ]
         }, {
@@ -2284,49 +2241,6 @@ option = {
                     align: 'right',
                     formatter(params) {
                         let htmlStr = Math.abs(params.value) + "      "
-                        return htmlStr
-                    }
-                }
-            },
-            data: [
-                {
-                    value: 0
-                }
-            ]
-        }, {
-            name: '2020',
-            type: 'bar',
-            stack: 'Taiwan',
-            color: '#b33668',
-            barMaxWidth: '18',
-            label: {
-                normal: {
-                    show: true,
-                    align: 'left',
-                    color: '#b33668',
-                    formatter(params) {
-                        let htmlStr = "    Taiwan   " + Math.abs(params.value)
-                        return htmlStr
-                    }
-                }
-            },
-            data: [
-                {
-                    value: 8
-                }
-            ]
-        }, {
-            name: '2020',
-            type: 'bar',
-            stack: 'Taiwan',
-            color: '#58aee0',
-            barMaxWidth: '18',
-            label: {
-                normal: {
-                    show: true,
-                    align: 'right',
-                    formatter(params) {
-                        let htmlStr = Math.abs(params.value) + "    "
                         return htmlStr
                     }
                 }
