@@ -1,14 +1,14 @@
-ASCO2020 = {'Post3': 0, 'Post2': 359, 'Post1': 506, 'Day5': 591, 'Day4': 1156, 'Day3': 3878, 'Day2': 4684, 'Day1': 4453, 'Pre1': 1469, 'Pre2': 604, 'Pre3': 476}
-ASCO2019 = {'Post3': 456, 'Post2': 617, 'Post1': 958, 'Day5': 2716, 'Day4': 5831, 'Day3': 5836, 'Day2': 5664, 'Day1': 4388, 'Pre1': 1558, 'Pre2': 815, 'Pre3': 460}
-ASCO2018 = {'Post3': 325, 'Post2': 449, 'Post1': 744, 'Day5': 2409, 'Day4': 5857, 'Day3': 5986, 'Day2': 5831, 'Day1': 3592, 'Pre1': 1128, 'Pre2': 587, 'Pre3': 383}
-ASCO2017 = {'Post3': 297, 'Post2': 401, 'Post1': 721, 'Day5': 2581, 'Day4': 5799, 'Day3': 5902, 'Day2': 5759, 'Day1': 4145, 'Pre1': 1186, 'Pre2': 628, 'Pre3': 412}
-ASCO2016 = {'Post3': 283, 'Post2': 393, 'Post1': 651, 'Day5': 1892, 'Day4': 5483, 'Day3': 5135, 'Day2': 5254, 'Day1': 3003, 'Pre1': 916, 'Pre2': 492, 'Pre3': 396}
-ASCO2015 = {'Post3': 316, 'Post2': 377, 'Post1': 661, 'Day5': 1941, 'Day4': 4974, 'Day3': 4718, 'Day2': 5052, 'Day1': 2693, 'Pre1': 827, 'Pre2': 509, 'Pre3': 298}
-ASCO2014 = {'Post3': 177, 'Post2': 310, 'Post1': 476, 'Day5': 1569, 'Day4': 3795, 'Day3': 3850, 'Day2': 3674, 'Day1': 2210, 'Pre1': 608, 'Pre2': 314, 'Pre3': 327}
-ASCO2013 = {'Post3': 151, 'Post2': 173, 'Post1': 308, 'Day5': 986, 'Day4': 2158, 'Day3': 2123, 'Day2': 1985, 'Day1': 1300, 'Pre1': 429, 'Pre2': 202, 'Pre3': 111}
-ASCO2012 = {'Post3': 1018, 'Post2': 1657, 'Post1': 1730, 'Day5': 2199, 'Day4': 3264, 'Day3': 3009, 'Day2': 2698, 'Day1': 2113, 'Pre1': 1715, 'Pre2': 1583, 'Pre3': 1611} #token error
-ASCO2011 = {'Post3': 521, 'Post2': 623, 'Post1': 712, 'Day5': 1009, 'Day4': 1614, 'Day3': 1735, 'Day2': 1545, 'Day1': 1236, 'Pre1': 836, 'Pre2': 663, 'Pre3': 597}
-ASCO2010 = {'Post3': 91, 'Post2': 136, 'Post1': 192, 'Day5': 385, 'Day4': 896, 'Day3': 1016, 'Day2': 1144, 'Day1': 486, 'Pre1': 218, 'Pre2': 162, 'Pre3': 104} #token error
+ASCO2020 = {'Pre3': 476, 'Pre2': 604, 'Pre1': 1469, 'Day1': 4453, 'Day2': 4684, 'Day3': 3878, 'Day4': 1156, 'Day5': 591, 'Post1': 506, 'Post2': 359, 'Post3': 0}
+ASCO2019 = {'Pre3': 460, 'Pre2': 815, 'Pre1': 1558, 'Day1': 4388, 'Day2': 5664, 'Day3': 5836, 'Day4': 5831, 'Day5': 2716, 'Post1': 958, 'Post2': 617, 'Post3': 456}
+ASCO2018 = {'Pre3': 383, 'Pre2': 587, 'Pre1': 1128, 'Day1': 3592, 'Day2': 5831, 'Day3': 5986, 'Day4': 5857, 'Day5': 2409, 'Post1': 744, 'Post2': 449, 'Post3': 325}
+ASCO2017 = {'Pre3': 412, 'Pre2': 628, 'Pre1': 1186, 'Day1': 4145, 'Day2': 5759, 'Day3': 5902, 'Day4': 5799, 'Day5': 2581, 'Post1': 721, 'Post2': 401, 'Post3': 297}
+ASCO2016 = {'Pre3': 396, 'Pre2': 492, 'Pre1': 916, 'Day1': 3003, 'Day2': 5254, 'Day3': 5135, 'Day4': 5483, 'Day5': 1892, 'Post1': 651, 'Post2': 393, 'Post3': 283}
+ASCO2015 = {'Pre3': 298, 'Pre2': 509, 'Pre1': 827, 'Day1': 2693, 'Day2': 5052, 'Day3': 4718, 'Day4': 4974, 'Day5': 1941, 'Post1': 661, 'Post2': 377, 'Post3': 316}
+ASCO2014 = {'Pre3': 327, 'Pre2': 314, 'Pre1': 608, 'Day1': 2210, 'Day2': 3674, 'Day3': 3850, 'Day4': 3795, 'Day5': 1569, 'Post1': 476, 'Post2': 310, 'Post3': 177}
+ASCO2013 = {'Pre3': 111, 'Pre2': 202, 'Pre1': 429, 'Day1': 1300, 'Day2': 1985, 'Day3': 2123, 'Day4': 2158, 'Day5': 986, 'Post1': 308, 'Post2': 173, 'Post3': 151}
+ASCO2012 = {'Pre3': 1611, 'Pre2': 1583, 'Pre1': 1715, 'Day1': 2113, 'Day2': 2698, 'Day3': 3009, 'Day4': 3264, 'Day5': 2199, 'Post1': 1730, 'Post2': 1657, 'Post3': 1018} #token error
+ASCO2011 = {'Pre3': 597, 'Pre2': 663, 'Pre1': 836, 'Day1': 1236, 'Day2': 1545, 'Day3': 1735, 'Day4': 1614, 'Day5': 1009, 'Post1': 712, 'Post2': 623, 'Post3': 521}
+ASCO2010 = {'Pre3': 104, 'Pre2': 162, 'Pre1': 218, 'Day1': 486, 'Day2': 1144, 'Day3': 1016, 'Day4': 896, 'Day5': 385, 'Post1': 192, 'Post2': 136, 'Post3': 91} #token error
 
 from pyecharts import options as opts
 from pyecharts.globals import ThemeType

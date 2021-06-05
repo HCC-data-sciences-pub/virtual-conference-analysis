@@ -6,13 +6,12 @@
 # AACR2016 = {'4/24/2016': 19, '4/23/2016': 57, '4/22/2016': 110, '4/21/2016': 180, '4/20/2016': 1973, '4/19/2016': 2360, '4/18/2016': 2331, '4/17/2016': 2509, '4/16/2016': 1189, '4/15/2016': 366, '4/14/2016': 173, '4/13/2016': 154, '4/12/2016': 97, '4/11/2016': 93, '4/10/2016': 3}
 # AACR2015 = {'4/26/2015': 32, '4/25/2015': 39, '4/24/2015': 75, '4/23/2015': 128, '4/22/2015': 893, '4/21/2015': 2021, '4/20/2015': 2016, '4/19/2015': 2152, '4/18/2015': 1377, '4/17/2015': 355, '4/16/2015': 140, '4/15/2015': 141, '4/14/2015': 89, '4/13/2015': 46, '4/12/2015': 1}
 
-AACR2020_1 = {'Day4': 128, 'Day3': 218, 'Day2': 1035, 'Day1': 1269}
-AACR2020_2 = {'Day4': 130, 'Day3': 731, 'Day2': 903, 'Day1': 1248}
-AACR2019 = {'Day4': 2723, 'Day3': 2625, 'Day2': 1165, 'Day1': 771}
-AACR2018 = {'Day4': 2470, 'Day3': 3178, 'Day2': 2902, 'Day1': 1622}
-AACR2017 = {'Day4': 2360, 'Day3': 3462, 'Day2': 2663, 'Day1': 1593}
-AACR2016 = {'Day4': 2360, 'Day3': 2331, 'Day2': 2509, 'Day1': 1189}
-AACR2015 = {'Day4': 2021, 'Day3': 2016, 'Day2': 2152, 'Day1': 1377}
+AACR2020 = {'Pre1': 150,'Pre2':129, 'Pre3':117, 'Day1': 2517, 'Day2': 1938, 'Day3': 949, 'Day4': 258, 'Post1':183, 'Post2':63, 'Post3':24}
+AACR2019 = {'Pre1': 203,'Pre2':216, 'Pre3':433, 'Day1': 771, 'Day2': 1165, 'Day3': 2625, 'Day4': 2723, 'Post1':2284, 'Post2':1132, 'Post3':289}
+AACR2018 = {'Pre1': 160,'Pre2':249, 'Pre3':541, 'Day1': 1622, 'Day2': 2902, 'Day3': 3178, 'Day4': 2470, 'Post1':1272, 'Post2':211, 'Post3':150}
+AACR2017 = {'Pre1': 181,'Pre2':206, 'Pre3':446, 'Day1': 1593, 'Day2': 2663, 'Day3': 3462, 'Day4': 2360, 'Post1':1133, 'Post2':189, 'Post3':136}
+AACR2016 = {'Pre1': 154,'Pre2':173, 'Pre3':366, 'Day1': 1189, 'Day2': 2509, 'Day3': 2331, 'Day4': 2360, 'Post1':1973, 'Post2':180, 'Post3':110}
+AACR2015 = {'Pre1': 141,'Pre2':140, 'Pre3':355, 'Day1': 1377, 'Day2': 2152, 'Day3': 2016, 'Day4': 2021, 'Post1':893, 'Post2':128, 'Post3':75}
 
 from pyecharts import options as opts
 from pyecharts.globals import ThemeType
@@ -30,14 +29,13 @@ area_color_js = (
 
 line = (
     Line(init_opts=opts.InitOpts(width="2000px",height='1400px'))
-    .add_xaxis(list(AACR2020_1.keys()))
-    .add_yaxis("AACR2015", list(AACR2015.values()))
-    .add_yaxis("AACR2016", list(AACR2016.values()))
-    .add_yaxis("AACR2017", list(AACR2017.values()))
-    .add_yaxis("AACR2018", list(AACR2018.values()))
-    .add_yaxis("AACR2019", list(AACR2019.values()))
-    .add_yaxis("AACR2020_1", list(AACR2020_1.values()))
-    .add_yaxis("AACR2020_2", list(AACR2020_2.values()))
+    .add_xaxis(list(AACR2020.keys()))
+    .add_yaxis("AACR2015", list(AACR2015.values()),label_opts=opts.LabelOpts(is_show=False),linestyle_opts=opts.LineStyleOpts(opacity=0.5),is_symbol_show=False,color="red")
+    .add_yaxis("AACR2016", list(AACR2016.values()),label_opts=opts.LabelOpts(is_show=False),linestyle_opts=opts.LineStyleOpts(opacity=0.5),is_symbol_show=False,color="blue")
+    .add_yaxis("AACR2017", list(AACR2017.values()),linestyle_opts=opts.LineStyleOpts(width=3,),color="green")
+    .add_yaxis("AACR2018", list(AACR2018.values()),label_opts=opts.LabelOpts(is_show=False),linestyle_opts=opts.LineStyleOpts(opacity=0.5),is_symbol_show=False,color="purple")
+    .add_yaxis("AACR2019", list(AACR2019.values()),linestyle_opts=opts.LineStyleOpts(width=3,),color="yellow")
+    .add_yaxis("AACR2020", list(AACR2020.values()),linestyle_opts=opts.LineStyleOpts(width=3,),color="cyan")
     .set_global_opts(title_opts=opts.TitleOpts(title="AACR2015-2020"))
     .render("twitter/AACR20152020.html")
 )

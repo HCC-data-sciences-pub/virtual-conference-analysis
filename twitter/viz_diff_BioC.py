@@ -1,18 +1,18 @@
-# BioC2020 = {'2020-08-04': 6, '2020-09-03': 27, '2020-08-03': 8, '2020-08-02': 4, '2020-08-01': 10, '2020-07-31': 67, '2020-07-30': 82, '2020-09-10': 4, '2020-07-29': 97, '2020-07-28': 173, '2020-05-02': 1, '2020-09-09': 1, '2020-07-27': 173, '2020-08-14': 1, '2020-07-26': 5, '2020-07-25': 2, '2020-07-24': 7, '2020-07-23': 15, '2020-09-01': 1, '2020-07-22': 5, '2020-07-21': 1}
-# BioC2019 = {'2019-07-01': 15, '2020-09-03': 21, '2019-06-30': 7, '2019-06-29': 16, '2019-06-28': 36, '2019-06-27': 94, '2020-09-09': 1, '2020-09-01': 2, '2019-06-26': 168, '2020-08-25': 1, '2020-08-31': 1, '2020-09-11': 1, '2020-09-10': 5, '2019-06-25': 154, '2019-06-24': 118, '2019-06-23': 24, '2020-05-02': 1, '2019-06-22': 9, '2019-06-21': 7, '2019-06-20': 6, '2019-06-19': 1}
-# BioC2018 = {'2018-07-31': 3, '2020-09-03': 15, '2018-07-30': 15, '2018-07-29': 8, '2018-07-28': 2, '2018-07-27': 179, '2020-09-10': 4, '2020-09-11': 1, '2020-09-01': 1, '2018-07-26': 137, '2020-08-25': 1, '2018-07-25': 45, '2018-07-24': 22, '2018-07-23': 1, '2018-07-21': 1, '2018-07-20': 2, '2018-07-19': 3}
-# BioC2017 = {'2017-08-01': 19, '2020-09-10': 3, '2017-07-31': 4, '2020-09-03': 12, '2017-07-29': 4, '2017-07-28': 93, '2017-07-27': 106, '2017-07-26': 66, '2017-07-25': 9, '2017-07-24': 1, '2017-07-21': 1}
-# BioC2016 = {'2016-07-29': 4, '2020-09-03': 1, '2016-07-27': 1, '2016-07-25': 1, '2016-07-22': 3, '2016-07-19': 17}
-# BioC2015 = {'2015-07-24': 1, '2020-09-11': 1, '2015-07-23': 2, '2015-07-22': 44, '2020-09-03': 8, '2020-09-10': 1, '2015-07-21': 62, '2015-07-20': 72, '2015-07-19': 2, '2015-07-18': 1, '2015-07-17': 5}
-# BioC2014 = {'2014-08-05': 2, '2020-09-03': 5, '2014-08-04': 3, '2014-08-03': 2, '2014-08-02': 2, '2014-08-01': 29, '2014-07-31': 22, '2014-07-30': 50, '2020-07-03': 1, '2014-07-29': 2}
+# 2020  July 27 - 31 
+# 2019  June 24 - 27 predicted day 5
+# 2018  July 25 - 27 predicted day 4,5
+# 2017  July 26 - 28 predicted day 4,5
+# 2016  June 24 - 26 predicted day 4,5
+# 2015  July 20 - 22 predicted day 4,5
+# 2014  July 30 - Aug 1 predicted day 4,5
 
-BioC2020 = {'Post2': 10, 'Post1': 67, 'Day4': 82, 'Day3': 97, 'Day2': 173, 'Day1': 173, 'Pre1': 5, 'Pre2': 2}
-BioC2019 = {'Post2': 16, 'Post1': 36, 'Day4': 94, 'Day3': 168, 'Day2': 154, 'Day1': 118, 'Pre1': 24, 'Pre2': 9}
-BioC2018 = {'Post2': 8, 'Post1': 2, 'Day4': 0, 'Day3': 179, 'Day2': 137, 'Day1': 45, 'Pre1': 22, 'Pre2': 1}
-BioC2017 = {'Post2': 4, 'Post1': 4, 'Day4': 0, 'Day3': 93, 'Day2': 106, 'Day1': 66, 'Pre1': 9, 'Pre2': 1}
-BioC2016 = {'Post2': 3, 'Post1': 8, 'Day4': 0, 'Day3': 39, 'Day2': 76, 'Day1': 13, 'Pre1': 8, 'Pre2': 5}
-BioC2015 = {'Post2': 1, 'Post1': 2, 'Day4': 0, 'Day3': 44, 'Day2': 62, 'Day1': 72, 'Pre1': 2, 'Pre2': 1}
-BioC2014 = {'Post2': 2, 'Post1': 2, 'Day4': 0, 'Day3': 29, 'Day2': 22, 'Day1': 50, 'Pre1': 2, 'Pre2': 0}
+BioC2020 = {'Pre3': 7, 'Pre2': 2, 'Pre1': 5, 'Day1': 184, 'Day2': 178, 'Day3': 108, 'Day4': 90, 'Day5': 73, 'Post1': 10, 'Post2': 4, 'Post3': 8}
+BioC2019 = {'Pre3': 7, 'Pre2': 9, 'Pre1': 24, 'Day1': 122, 'Day2': 154, 'Day3': 169, 'Day4': 97, 'Day5': 66.5, 'Post1': 36, 'Post2': 17, 'Post3': 7}
+BioC2018 = {'Pre3': 0, 'Pre2': 1, 'Pre1': 22, 'Day1': 49, 'Day2': 140, 'Day3': 185, 'Day4': 124, 'Day5': 63, 'Post1': 2, 'Post2': 9, 'Post3': 15}
+BioC2017 = {'Pre3': 0, 'Pre2': 1, 'Pre1': 9, 'Day1': 66, 'Day2': 107, 'Day3': 95, 'Day4': 64, 'Day5': 34, 'Post1': 4, 'Post2': 4, 'Post3': 19}
+BioC2016 = {'Pre3': 2, 'Pre2': 5, 'Pre1': 8, 'Day1': 13, 'Day2': 79, 'Day3': 39, 'Day4': 28 , 'Day5': 18 , 'Post1': 8, 'Post2': 3, 'Post3': 0}
+BioC2015 = {'Pre3': 5, 'Pre2': 1, 'Pre1': 2, 'Day1': 72, 'Day2': 63, 'Day3': 47, 'Day4': 32, 'Day5': 17 , 'Post1': 2, 'Post2': 1, 'Post3': 0}
+BioC2014 = {'Pre3': 0, 'Pre2': 0, 'Pre1': 2, 'Day1': 51, 'Day2': 23, 'Day3': 29, 'Day4': 20, 'Day5': 11, 'Post1': 2, 'Post2': 2, 'Post3': 3}
 
 from pyecharts import options as opts
 from pyecharts.globals import ThemeType
@@ -31,13 +31,13 @@ area_color_js = (
 line = (
     Line(init_opts=opts.InitOpts(width="2000px",height='1400px'))
     .add_xaxis(list(BioC2020.keys()))
-    .add_yaxis("BioC2014", list(BioC2014.values()))
-    .add_yaxis("BioC2015", list(BioC2015.values()))
-    .add_yaxis("BioC2016", list(BioC2016.values()))
-    .add_yaxis("BioC2017", list(BioC2017.values()))
-    .add_yaxis("BioC2018", list(BioC2018.values()))
-    .add_yaxis("BioC2019", list(BioC2019.values()))
-    .add_yaxis("BioC2020", list(BioC2020.values()))
-    .set_global_opts(title_opts=opts.TitleOpts(title="ASCO2014-2020"))
+    .add_yaxis("BioC2014", list(BioC2014.values()),label_opts=opts.LabelOpts(is_show=False),linestyle_opts=opts.LineStyleOpts(opacity=0.5),is_symbol_show=False,color="red")
+    .add_yaxis("BioC2015", list(BioC2015.values()),label_opts=opts.LabelOpts(is_show=False),linestyle_opts=opts.LineStyleOpts(opacity=0.5),is_symbol_show=False,color="blue")
+    .add_yaxis("BioC2016", list(BioC2016.values()),label_opts=opts.LabelOpts(is_show=False),linestyle_opts=opts.LineStyleOpts(opacity=0.5),is_symbol_show=False,color="green")
+    .add_yaxis("BioC2017", list(BioC2017.values()),label_opts=opts.LabelOpts(is_show=False),linestyle_opts=opts.LineStyleOpts(opacity=0.5),is_symbol_show=False,color="gray")
+    .add_yaxis("BioC2018", list(BioC2018.values()),linestyle_opts=opts.LineStyleOpts(width=3,),color="purple")
+    .add_yaxis("BioC2019", list(BioC2019.values()),linestyle_opts=opts.LineStyleOpts(width=3,),color="pink")
+    .add_yaxis("BioC2020", list(BioC2020.values()),linestyle_opts=opts.LineStyleOpts(width=3,),color="black")
+    .set_global_opts(title_opts=opts.TitleOpts(title="BioC2014-2020"))
     .render("twitter/BioC20142020.html")
 )
