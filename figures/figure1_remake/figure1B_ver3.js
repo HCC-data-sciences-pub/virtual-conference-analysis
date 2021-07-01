@@ -14,7 +14,7 @@ option = {
         }
     },
     legend: {
-        textStyle :{fontSize: 20},
+        textStyle: { fontSize: 50 },
         data: ['African 2019', 'African 2020']
     },
     grid: {
@@ -25,22 +25,22 @@ option = {
     },
     xAxis: [
         {
-            data: ["2019                                                  2020"]
-        , axisLabel: {
-            show: true,
-            textStyle: {
-                 fontSize: 20
+            data: ["2019              2020"]
+            , axisLabel: {
+                show: true,
+                textStyle: {
+                    fontSize: 70
+                }
             }
-        }
-            
+
         }
     ],
     yAxis: [{
         type: "value",
-         axisLabel: {
+        axisLabel: {
             show: true,
             textStyle: {
-                 fontSize: 20
+                fontSize: 50
             }
         }
     }],
@@ -53,9 +53,9 @@ option = {
             label: {
                 normal: {
                     show: true,
-                    formatter: "5,   1.34% of the total",
+                    formatter: "5",
                     textStyle: {
-                        fontSize: 20,
+                        fontSize: 50,
                         fontWeight: 'bold'
                     }
                 }
@@ -69,9 +69,9 @@ option = {
             label: {
                 normal: {
                     show: true,
-                    formatter: "71,   1.81% of the total",
+                    formatter: "71",
                     textStyle: {
-                        fontSize: 20,
+                        fontSize: 50,
                         fontWeight: 'bold'
                     }
                 }

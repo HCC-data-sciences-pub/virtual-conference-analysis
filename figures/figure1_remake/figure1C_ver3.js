@@ -14,7 +14,7 @@ option = {
         }
     },
     legend: {
-        textStyle :{fontSize: 20},
+        textStyle: { fontSize: 50 },
         data: ['Hispanic 2019', 'Hispanic 2020']
     },
     grid: {
@@ -25,21 +25,21 @@ option = {
     },
     xAxis: [
         {
-            data: ["2019                                             2020"]
-        , axisLabel: {
-            show: true,
-            textStyle: {
-                 fontSize: 20
+            data: ["2019                       2020"]
+            , axisLabel: {
+                show: true,
+                textStyle: {
+                    fontSize: 50
+                }
             }
-        }
         }
     ],
     yAxis: [{
         type: "value",
-         axisLabel: {
+        axisLabel: {
             show: true,
             textStyle: {
-                 fontSize: 20
+                fontSize: 50
             }
         }
     }],
@@ -52,9 +52,9 @@ option = {
             label: {
                 normal: {
                     show: true,
-                    formatter: "18,   4.81% of the total",
+                    formatter: "18",
                     textStyle: {
-                        fontSize: 20,
+                        fontSize: 50,
                         fontWeight: 'bold'
                     }
                 }
@@ -68,9 +68,9 @@ option = {
             label: {
                 normal: {
                     show: true,
-                    formatter: "316,   8.08% of the total",
+                    formatter: "316",
                     textStyle: {
-                        fontSize: 20,
+                        fontSize: 50,
                         fontWeight: 'bold'
                     }
                 }
